@@ -1,0 +1,3596 @@
+<resources>
+    <string name="app_name">Swadesh</string>
+    <string-array name="Mandarin">
+        <item>uɔ˨˩˦</item>
+        <item>ni˨˩˦, nin˧˥</item>
+        <item>tʰa˥˥</item>
+        <item>uɔ˨˩mən</item>
+        <item>ni˨˩mən, nin˧˥</item>
+        <item>tʰa˥˥mən, tʰa˥˥mən, tʰa˥˥mən</item>
+        <item>tʂɤ˥˩, tʂei˥˩, tʂɤ˥˩kə, tʂei˥˩kə</item>
+        <item>na˥˩, nei˥˩, na˥˩kə, nei˥˩kə</item>
+        <item>tʂɤ˥˩li, tʂaɻ˥˩</item>
+        <item>na˥˩li, naɻ˥˩</item>
+        <item>ʂei˧˥, ʂuei˧˥</item>
+        <item>ʂən˧˥mə, na˨˩kə</item>
+        <item>na˧˥li, naɻ˨˩˦</item>
+        <item>ʂən˧˥mə˥˥ʂʐ˧˥xou˥˩</item>
+        <item>ʐu˧˥xɤ˧˥, tsən˨˩mə, tsən˨˩iaŋ˥˩</item>
+        <item>pu˥˩, piɛ˧˥, mei˧˥</item>
+        <item>tɕʰyɛn˧˥pu˥˩, tʂɤŋ˨˩˦, suɔ˧˥iou˨˩˦, tou˥˥, ji˧˥kʊŋ˥˩</item>
+        <item>tuɔ˥˥</item>
+        <item>ji˥˥ɕiɛ˥˥, tɕi˨˩kə</item>
+        <item>ʂɑu˨˩˦</item>
+        <item>tɕʰi˧˥tʰa˥˥, piɛ˧˥tə</item>
+        <item>ji˥˥</item>
+        <item>ɑɻ˥˩, liɑŋ˨˩˦</item>
+        <item>san˥˥</item>
+        <item>sɨ˥˩</item>
+        <item>wu˨˩˦</item>
+        <item>ta˥˩</item>
+        <item>tʂʰɑŋ˧˥</item>
+        <item>kʰuan˥˥</item>
+        <item>xou˥˩</item>
+        <item>tʂʊŋ˥˩</item>
+        <item>ɕiɑu˨˩˦</item>
+        <item>tuan˨˩˦</item>
+        <item>tʂai˨˩˦</item>
+        <item>pɑu˧˥</item>
+        <item>ny˨˩ʐən˧˥</item>
+        <item>nan˧˥ʐən˧˥</item>
+        <item>ʐən˧˥</item>
+        <item>xai˧˥tsɨ, ɑɻ˧˥tʰʊŋ˧˥, ɕiɑu˨˩xai˧˥</item>
+        <item>tɕʰi˥˥tsɨ, lɑu˨˩pʰwɔ˧˥</item>
+        <item>tʂɑŋ˥˩fu, lɑu˨˩kʊŋ˥˥</item>
+        <item>mu˨˩tɕʰin˥˥, ma˥˥ma</item>
+        <item>fu˥˩tɕʰin˥˥, pa˥˩pa</item>
+        <item>tʊŋ˥˩wu˥˩</item>
+        <item>y˧˥</item>
+        <item>niɑu˨˩˦</item>
+        <item>kou˨˩˦</item>
+        <item>ʂʐ˥˥</item>
+        <item>ʂɤ˧˥</item>
+        <item>tʂʰʊŋ˧˥, ʐu˧˥tʂʰʊŋ˧˥, tɕʰiou˥˥jin˨˩˦</item>
+        <item>ʂu˥˩</item>
+        <item>sən˥˥lin˧˥</item>
+        <item>ʂu˥˩tʂʐ˥˥, tʂʐ˥˥tʰiɑu˧˥, tʂʐ˥˥tsɨ</item>
+        <item>ʂuei˧˥kuɔ˨˩˦</item>
+        <item>tʂʊŋ˨˩tsɨ</item>
+        <item>iɛ˥˩, iɛ˥˩tsɨ</item>
+        <item>kən˥˥</item>
+        <item>ʂu˥˩pʰi˧˥</item>
+        <item>xua˥˥</item>
+        <item>tsʰɑu˨˩˦</item>
+        <item>ʂɤŋ˧˥, ʂɤŋ˧˥tsɨ</item>
+        <item>pʰi˧˥, pʰi˧˥fu˥˥</item>
+        <item>ʐou˥˩</item>
+        <item>ɕyɛ˥˩, ɕyɛ˥˩iɛ˥˩</item>
+        <item>ku˨˩˦, ku˨˩tʰou˧˥</item>
+        <item>tʂʐ˥˥fɑŋ˧˥</item>
+        <item>tan˥˩, tɕi˥˥tan˥˩</item>
+        <item>tɕiɑu˨˩˦</item>
+        <item>uei˨˩˦, uei˨˩pa</item>
+        <item>y˨˩mɑu˧˥</item>
+        <item>tʰou˧˥fa</item>
+        <item>tʰou˧˥</item>
+        <item>aɻ˨˩tuɔ</item>
+        <item>iɛn˨˩tɕiŋ</item>
+        <item>pi˧˥, pi˧˥tsɨ</item>
+        <item>tsuei˨˩˦, tsuei˨˩pa</item>
+        <item>ia˧˥tʂʰʐ˨˩˦</item>
+        <item>ʂɤ˧˥, ʂɤ˧˥tʰou</item>
+        <item>tʂʐ˧˥tɕia˨˩</item>
+        <item>tɕiɑu˨˩˦</item>
+        <item>tʰuei˨˩˦</item>
+        <item>ɕi˥˥, ɕi˥˥kai˥˩</item>
+        <item>ʂou˨˩˦</item>
+        <item>ji˥˩, tʂʰʐ˥˩paŋ˨˩˦</item>
+        <item>tu˥˩tsɨ</item>
+        <item>tʂʰɑŋ˧˥tsɨ</item>
+        <item>pwɔ˧˥tsɨ</item>
+        <item>pei˥˩</item>
+        <item>ɕyʊŋ˥˥, ɕyʊŋ˥˥pu˥˩, ɕyʊŋ˥˥tʰɑŋ˧˥, ʐu˨˩fɑŋ˧˥</item>
+        <item>ɕin˥˥tsɑŋ˥˩</item>
+        <item>kan˥˥, kan˥˥tsɑŋ˥˩</item>
+        <item>xɤ˥˥</item>
+        <item>tʂʰʐ˥˥</item>
+        <item>iɑu˨˩˦</item>
+        <item>ɕi˥˥, tʂʰuo˥˩, ʂuən˨˩ɕi˥˥</item>
+        <item>tʰu˨˩˦, tʰu˨˩kʰou˧˥ʂuei˨˩˦, tʰu˨˩tʰan˧˥</item>
+        <item>ou˨˩˦, tʰu˥˩, ou˨˩tʰu˥˩</item>
+        <item>tʂʰuei˥˥</item>
+        <item>xu˥˥ɕi˥˥</item>
+        <item>ɕiɑu˥˩</item>
+        <item>kʰan˥˩</item>
+        <item>tʰiŋ˥˥</item>
+        <item>tʂʐ˥˥tau˥˩, ɕiɑu˨˩tə, ʐən˥˩ʂʐ</item>
+        <item>ɕiɑŋ˨˩˦</item>
+        <item>ɕiou˥˩, uən˧˥</item>
+        <item>pʰa˥˩</item>
+        <item>ʂuei˥˩, ʂuei˥˩tɕiɑu˥˩</item>
+        <item>xuɔ˧˥</item>
+        <item>sɨ˨˩˦</item>
+        <item>ʂa˥˥</item>
+        <item>tʂʰɑu˨˩tɕia˥˩, ta˨˩tɕia˥˩, ta˨˩tʂɑŋ˥˩</item>
+        <item>ta˨˩liɛ˥˩</item>
+        <item>ta˨˩˦</item>
+        <item>kɤ˥˥, tɕʰiɛ˥˥, tɕiɛn˨˩˦</item>
+        <item>pʰi˥˥kʰai˥˥, liɛ˥˩kʰai˥˥, fən˥˥kʰai˥˥</item>
+        <item>tsʰɨ˥˩</item>
+        <item>sɑu˥˥, tʂua˥˥</item>
+        <item>ua˥˥, tɕyɛ˧˥</item>
+        <item>iou˧˥yʊŋ˨˩˦</item>
+        <item>fei˥˥</item>
+        <item>tsou˨˩˦, tsou˨˩lu˥˩, pu˥˩ɕiŋ˧˥</item>
+        <item>lai˧˥</item>
+        <item>tʰɑŋ˨˩˦</item>
+        <item>tsuɔ˥˩</item>
+        <item>tʂan˥˩</item>
+        <item>tʂuan˨˩˦</item>
+        <item>luɔ˥˩ɕia˥˩, tiɑu˥˩ɕia˥˩</item>
+        <item>kei˨˩˦</item>
+        <item>uɔ˥˧, na˧˥</item>
+        <item>tɕi˨˩˦</item>
+        <item>ʐou˧˥</item>
+        <item>ɕi˨˩˦</item>
+        <item>tsʰa˥˥</item>
+        <item>la˥˥</item>
+        <item>tʰuei˥˥</item>
+        <item>ʐɤŋ˥˥, tiou˥˥</item>
+        <item>pɑŋ˨˩˦</item>
+        <item>fɤŋ˧˥</item>
+        <item>ʂu˨˩˦, tiɛn˨˩˦</item>
+        <item>ʂuɔ˥˥, tɕiɑŋ˨˩˦</item>
+        <item>tʂʰɑŋ˥˩</item>
+        <item>uan˧˥</item>
+        <item>fu˧˥</item>
+        <item>liou˧˥</item>
+        <item>tɕiɛ˧˥piŋ˥˥, tʊŋ˥˩tɕiɛ˧˥</item>
+        <item>pʰɤŋ˧˥tʂɑŋ˥˩</item>
+        <item>tʰai˥˩iɑŋ˧˥</item>
+        <item>yɛ˥˩liɑŋ˥˩</item>
+        <item>ɕiŋ˥˥, xɤŋ˧˥ɕiŋ˥˥</item>
+        <item>ʂuei˨˩˦</item>
+        <item>y˨˩˦</item>
+        <item>xɤ˧˥</item>
+        <item>xu˧˥</item>
+        <item>xai˨˩˦</item>
+        <item>iɛn˧˥</item>
+        <item>ʂʐ˧˥, ʂʐ˧˥tʰou˧˥</item>
+        <item>ʂa˥˥</item>
+        <item>tʂʰən˧˥tʰu˨˩˦</item>
+        <item>ti˥˩tɕʰiou˧˥</item>
+        <item>yn˧˥</item>
+        <item>wu˥˩</item>
+        <item>tʰiɛn˥˥</item>
+        <item>fɤŋ˥˥</item>
+        <item>ɕyɛ˨˩˦</item>
+        <item>piŋ˥˥</item>
+        <item>iɛn˥˥</item>
+        <item>xuɔ˨˩˦</item>
+        <item>xuei˥˥, xuei˥˥tɕin˥˩</item>
+        <item>ʂɑu˥˥</item>
+        <item>lu˥˩</item>
+        <item>ʂan˥˥</item>
+        <item>xʊŋ˧˥</item>
+        <item>ly˥˩</item>
+        <item>xuɑŋ˧˥</item>
+        <item>pai˧˥</item>
+        <item>xei˥˥</item>
+        <item>iɛ˥˩uan˨˩˦</item>
+        <item>pai˧˥tʰiɛn˥˥</item>
+        <item>niɛn˧˥</item>
+        <item>uən˥˥nuan˨˩˦</item>
+        <item>lɤŋ˨˩˦</item>
+        <item>man˨˩˦</item>
+        <item>ɕin˥˥</item>
+        <item>lɑu˨˩˦, tɕiou˥˩</item>
+        <item>xɑu˨˩˦</item>
+        <item>xuai˥˩</item>
+        <item>lan˥˩</item>
+        <item>tsɑŋ˥˥</item>
+        <item>tʂʐ˧˥</item>
+        <item>yɛn˧˥</item>
+        <item>tɕiɛn˥˥, li˥˩, fɤŋ˥˥li˥˩, ʐuei˥˩li˥˩</item>
+        <item>tuən˥˩</item>
+        <item>kuɑŋ˥˥xua˧˥</item>
+        <item>ʂʐ˥˥</item>
+        <item>kan˥˥</item>
+        <item>tuei˥˩, tʂɤŋ˥˩tɕʰyɛ˥˩</item>
+        <item>tɕin˥˩</item>
+        <item>yɛn˨˩˦</item>
+        <item>iou˥˩</item>
+        <item>tsuɔ˨˩˦</item>
+        <item>tsai˥˩</item>
+        <item>tsai˥˩'li˨˩˦</item>
+        <item>xɤ˧˥, kən˥˥</item>
+        <item>xɤ˧˥, kən˥˥</item>
+        <item>ʐu˧˥kuɔ˨˩˦</item>
+        <item>jin˥˥uei˥˩</item>
+        <item>miŋ˧˥, miŋ˧˥tsɨ</item>
+    </string-array>
+
+    <string-array name="Spanish">
+        <item>ʝo</item>
+        <item>tu, bos, usˈteð</item>
+        <item>el</item>
+        <item>noˈsotɾos, noˈsotɾas</item>
+        <item>boˈsotɾos, boˈsotɾas, usˈteðes</item>
+        <item>ˈeʎos, ˈeʎas</item>
+        <item>ˈeste</item>
+        <item>ˈese, aˈkel</item>
+        <item>aˈki, aˈka</item>
+        <item>aˈi</item>
+        <item>kjen</item>
+        <item>ke</item>
+        <item>ˈdonde</item>
+        <item>ˈkwando</item>
+        <item>ˈkomo</item>
+        <item>no</item>
+        <item>ˈtoðo</item>
+        <item>ˈmut͡ʃos</item>
+        <item>alˈɣunos</item>
+        <item>ˈpoko</item>
+        <item>ˈotɾo</item>
+        <item>ˈuno</item>
+        <item>dos</item>
+        <item>tɾes</item>
+        <item>ˈkwatɾo</item>
+        <item>ˈθiŋko</item>
+        <item>ˈɡɾande</item>
+        <item>ˈlaɾɣo</item>
+        <item>ˈant͡ʃo</item>
+        <item>ˈɡɾweso</item>
+        <item>peˈsaðo</item>
+        <item>peˈkeɲo</item>
+        <item>ˈkoɾto</item>
+        <item>esˈtɾet͡ʃo</item>
+        <item>delˈɣaðo, ˈflako</item>
+        <item>muˈxeɾ</item>
+        <item>ˈombɾe</item>
+        <item>ˈombɾe</item>
+        <item>ˈniɲo</item>
+        <item>esˈposa, muˈxeɾ</item>
+        <item>esˈposo, maˈɾiðo</item>
+        <item>ˈmaðɾe</item>
+        <item>ˈpaðɾe</item>
+        <item>aniˈmal</item>
+        <item>peθ, pesˈkaðo</item>
+        <item>ˈpaxaɾo</item>
+        <item>ˈpero</item>
+        <item>ˈpjoxo</item>
+        <item>seɾˈpjente</item>
+        <item>ɡuˈsano</item>
+        <item>ˈaɾβol</item>
+        <item>ˈboske</item>
+        <item>ˈpalo</item>
+        <item>fɾuta</item>
+        <item>seˈmiʎa</item>
+        <item>ˈoxa</item>
+        <item>raˈiθ</item>
+        <item>koɾˈteθa</item>
+        <item>floɾ</item>
+        <item>ˈʝeɾβa</item>
+        <item>ˈkweɾða</item>
+        <item>pjel</item>
+        <item>ˈkaɾne</item>
+        <item>ˈsaŋɡɾe</item>
+        <item>ˈweso</item>
+        <item>ˈɡɾasa</item>
+        <item>ˈweβo</item>
+        <item>ˈkweɾno</item>
+        <item>ˈkola</item>
+        <item>ˈpluma</item>
+        <item>kaˈβeʎo</item>
+        <item>kaˈβeθa</item>
+        <item>oˈɾexa</item>
+        <item>ˈoxo</item>
+        <item>naˈɾiθ</item>
+        <item>ˈboka</item>
+        <item>ˈdjente</item>
+        <item>ˈleŋɡwa</item>
+        <item>ˈuɲa</item>
+        <item>pje</item>
+        <item>ˈpjeɾna</item>
+        <item>roˈðiʎa</item>
+        <item>ˈmano</item>
+        <item>ˈala</item>
+        <item>baˈriɣa</item>
+        <item>ˈtɾipas</item>
+        <item>ˈkweʎo</item>
+        <item>esˈpalda</item>
+        <item>ˈpet͡ʃo</item>
+        <item>koɾaˈθon</item>
+        <item>ˈiɣaðo</item>
+        <item>beˈβeɾ</item>
+        <item>koˈmeɾ</item>
+        <item>moɾˈðeɾ</item>
+        <item>t͡ʃuˈpaɾ</item>
+        <item>eskuˈpiɾ</item>
+        <item>bomiˈtaɾ</item>
+        <item>soˈplaɾ</item>
+        <item>respiˈɾaɾ</item>
+        <item>reˈiɾ</item>
+        <item>beɾ</item>
+        <item>oˈiɾ</item>
+        <item>saˈβeɾ</item>
+        <item>penˈsaɾ</item>
+        <item>oˈleɾ</item>
+        <item>teˈmeɾ</item>
+        <item>doɾˈmiɾ</item>
+        <item>biˈβiɾ</item>
+        <item>moˈɾiɾ</item>
+        <item>maˈtaɾ</item>
+        <item>peleˈaɾ</item>
+        <item>kaˈθaɾ</item>
+        <item>ɡolpeˈaɾ</item>
+        <item>koɾˈtaɾ</item>
+        <item>paɾˈtiɾ</item>
+        <item>apuɲaˈlaɾ</item>
+        <item>aɾaˈɲaɾ, rasˈkaɾ</item>
+        <item>kaˈβaɾ</item>
+        <item>naˈðaɾ</item>
+        <item>boˈlaɾ</item>
+        <item>kamiˈnaɾ</item>
+        <item>beˈniɾ</item>
+        <item>eˈt͡ʃaɾse</item>
+        <item>senˈtaɾse</item>
+        <item>leβanˈtaɾse, esˈtaɾ, de, pje</item>
+        <item>xiˈɾaɾ</item>
+        <item>kaˈeɾ</item>
+        <item>daɾ</item>
+        <item>teˈneɾ</item>
+        <item>apɾeˈtaɾ</item>
+        <item>fɾoˈtaɾ</item>
+        <item>laˈβaɾ</item>
+        <item>limˈpjaɾ</item>
+        <item>tiˈɾaɾ, de, xaˈlaɾ</item>
+        <item>empuˈxaɾ</item>
+        <item>tiˈɾaɾ</item>
+        <item>aˈtaɾ</item>
+        <item>koˈseɾ</item>
+        <item>konˈtaɾ</item>
+        <item>deˈθiɾ</item>
+        <item>kanˈtaɾ</item>
+        <item>xuˈɣaɾ</item>
+        <item>floˈtaɾ</item>
+        <item>fluˈiɾ</item>
+        <item>eˈlaɾ</item>
+        <item>inˈt͡ʃaɾse</item>
+        <item>sol</item>
+        <item>ˈluna</item>
+        <item>esˈtɾeʎa</item>
+        <item>ˈaɣwa</item>
+        <item>ˈʎuβja</item>
+        <item>ˈrio</item>
+        <item>ˈlaɣo</item>
+        <item>maɾ</item>
+        <item>sal</item>
+        <item>ˈpjeðɾa</item>
+        <item>aˈɾena</item>
+        <item>ˈpolβo</item>
+        <item>ˈtjera</item>
+        <item>ˈnuβe</item>
+        <item>ˈnjeβla</item>
+        <item>ˈθjelo</item>
+        <item>ˈbjento</item>
+        <item>ˈnjeβe</item>
+        <item>ˈjelo</item>
+        <item>ˈumo</item>
+        <item>ˈfweɣo</item>
+        <item>θeˈniθas</item>
+        <item>keˈmaɾ</item>
+        <item>kaˈmino</item>
+        <item>monˈtaɲa</item>
+        <item>ˈroxo</item>
+        <item>ˈbeɾðe</item>
+        <item>amaˈɾiʎo</item>
+        <item>ˈblaŋko</item>
+        <item>ˈneɣɾo</item>
+        <item>ˈnot͡ʃe</item>
+        <item>ˈdia</item>
+        <item>ˈaɲo</item>
+        <item>ˈkaliðo</item>
+        <item>ˈfɾio</item>
+        <item>ˈʎeno</item>
+        <item>ˈnweβo</item>
+        <item>ˈbjexo</item>
+        <item>ˈbweno</item>
+        <item>ˈmalo</item>
+        <item>poðˈɾiðo</item>
+        <item>ˈsuθjo</item>
+        <item>ˈrekto</item>
+        <item>reˈðondo</item>
+        <item>aˈɣuðo, afiˈlaðo</item>
+        <item>sinˈfilo, emboˈtaðo, ˈromo</item>
+        <item>lˈiso</item>
+        <item>moˈxaðo</item>
+        <item>ˈseko</item>
+        <item>koˈrekto</item>
+        <item>ˈθeɾka</item>
+        <item>ˈlexos</item>
+        <item>deˈɾet͡ʃa</item>
+        <item>iθˈkjeɾða</item>
+        <item>a, en</item>
+        <item>en</item>
+        <item>kon</item>
+        <item>i, e</item>
+        <item>si</item>
+        <item>ˈpoɾke</item>
+        <item>ˈnombɾe</item>
+    </string-array>
+
+    <string-array name="English">
+    </string-array>
+
+    <string-array name="Hindi">
+        <item>mɛː</item>
+        <item>t̪uː</item>
+        <item>ʋəɦə</item>
+        <item>ɦəmə</item>
+        <item>t̪ʊmə</item>
+        <item>ʋeː</item>
+        <item>jəɦə</item>
+        <item>ʋəɦə</item>
+        <item>jəɦaː</item>
+        <item>ʋəɦaː</item>
+        <item>kɔːnə</item>
+        <item>kəjaː</item>
+        <item>kəɦaː</item>
+        <item>kəbə</item>
+        <item>kɛːsaː</item>
+        <item>nəɦiː</item>
+        <item>səbə</item>
+        <item>bəɦʊt̪ə</item>
+        <item>kʊtʃʰə</item>
+        <item>t̪ʰoːɽaː</item>
+        <item>d̪uːsəɾaː</item>
+        <item>kə</item>
+        <item>d̪oː</item>
+        <item>t̪iːnə</item>
+        <item>tʃaːɾə</item>
+        <item>paːtʃə</item>
+        <item>bəɽaː</item>
+        <item>ləməbaː</item>
+        <item>tʃɔːɽaː</item>
+        <item>ɡaːɽʱaː</item>
+        <item>bʱaːɾiː</item>
+        <item>tʃʰoːʈaː</item>
+        <item>tʃʰoːʈaː</item>
+        <item>t̪ŋɡə</item>
+        <item>pət̪əlaː</item>
+        <item>ɾət̪ə</item>
+        <item>d̪əmiː</item>
+        <item>saːnə</item>
+        <item>bətʃətʃaː</item>
+        <item>pət̪əniː</item>
+        <item>pət̪ɪ</item>
+        <item>maːt̪aː</item>
+        <item>pɪt̪aː</item>
+        <item>dʒaːnəʋəɾə</item>
+        <item>mətʃʰəliː</item>
+        <item>tʃɪɽɪjaː</item>
+        <item>kʊt̪ət̪aː</item>
+        <item>dʒuː</item>
+        <item>saːpə</item>
+        <item>kiːɽaː</item>
+        <item>peːɽə</item>
+        <item>dʒŋɡələ</item>
+        <item>ɖəɳəɖaː</item>
+        <item>pʰələ</item>
+        <item>biːdʒə</item>
+        <item>pət̪ət̪aː</item>
+        <item>dʒəɽə</item>
+        <item>tʃʰaːlə</item>
+        <item>pʰuːlə</item>
+        <item>ɡʱaːsə</item>
+        <item>ɾəsəsiː</item>
+        <item>t̪əʋətʃaː</item>
+        <item>maːsə</item>
+        <item>xuːnə</item>
+        <item>ɦəɖəɖiː</item>
+        <item>tʃəɾəbiː</item>
+        <item>ɖaː</item>
+        <item>siːɡə</item>
+        <item>puːtʃʰə</item>
+        <item>pŋkʰə</item>
+        <item>baːlə</item>
+        <item>səɾə</item>
+        <item>kaːnə</item>
+        <item>kʰə</item>
+        <item>naːkə</item>
+        <item>mʊɦə</item>
+        <item>d̪aːt̪ə</item>
+        <item>dʒiːbʱə</item>
+        <item>naːxʊnə</item>
+        <item>pɛːɾə</item>
+        <item>ʈaːɡə</item>
+        <item>ɡʱʊʈənaː</item>
+        <item>ɦaːt̪ʰə</item>
+        <item>pŋkʰə</item>
+        <item>peːʈə</item>
+        <item>t̪əɽiː</item>
+        <item>ɡəɾəd̪ənə</item>
+        <item>piːʈʰə</item>
+        <item>tʃʰaːt̪iː</item>
+        <item>d̪ɪlə</item>
+        <item>dʒɪɡəɾə</item>
+        <item>piːnaː</item>
+        <item>kʰaːnaː</item>
+        <item>kaːʈənaː</item>
+        <item>tʃuːsənaː</item>
+        <item>t̪ʰuːkənaː</item>
+        <item>ləʈiːkəɾənaː</item>
+        <item>pʰuːkəmaːɾənaː</item>
+        <item>saːsəleːnaː</item>
+        <item>ɦ◌̃sənaː</item>
+        <item>d̪eːkʰənaː</item>
+        <item>sʊnənaː</item>
+        <item>dʒaːnənaː</item>
+        <item>soːtʃənaː</item>
+        <item>suːɡʱənaː</item>
+        <item>seːɖəɾənaː</item>
+        <item>soːnaː</item>
+        <item>dʒiːnaː</item>
+        <item>məɾənaː</item>
+        <item>maːɾənaː</item>
+        <item>ləɽənaː</item>
+        <item>ʃɪkaːɾəkəɾənaː</item>
+        <item>maːɾənaː</item>
+        <item>kaːʈənaː</item>
+        <item>bŋʈənaː</item>
+        <item>bʱoːkənaː</item>
+        <item>kʰəɾoːtʃənaː</item>
+        <item>kʰoːd̪ənaː</item>
+        <item>t̪ɛːɾənaː</item>
+        <item>ɽənaː</item>
+        <item>tʃələnaː</item>
+        <item>naː</item>
+        <item>leːʈənaː</item>
+        <item>bɛːʈʰənaː</item>
+        <item>kʰəɽaːɦoːnaː</item>
+        <item>mʊɽənaː</item>
+        <item>ɡɪɾənaː</item>
+        <item>d̪eːnaː</item>
+        <item>pəkəɽənaː</item>
+        <item>ɡʱʊsaːd̪eːnaː</item>
+        <item>mələnaː</item>
+        <item>d̪ʱoːnaː</item>
+        <item>poːtʃʰənaː</item>
+        <item>kʰiːtʃənaː</item>
+        <item>d̪ʱəkəkaːd̪eːnaː</item>
+        <item>pʰeːkənaː</item>
+        <item>baːd̪ʱənaː</item>
+        <item>siːnaː</item>
+        <item>ɡɪnənaː</item>
+        <item>kəɦənaː</item>
+        <item>ɡaːnaː</item>
+        <item>kʰeːlənaː</item>
+        <item>t̪ɛːɾənaː</item>
+        <item>bəɦənaː</item>
+        <item>dʒəmənaː</item>
+        <item>suːdʒənaː</item>
+        <item>suːɾədʒə</item>
+        <item>tʃaːd̪ə</item>
+        <item>t̪aːɾaː</item>
+        <item>paːniː</item>
+        <item>baːɾɪʃə</item>
+        <item>nəd̪iː</item>
+        <item>dʒʱiːlə</item>
+        <item>səmənəd̪əɾə</item>
+        <item>nəməkə</item>
+        <item>pət̪ət̪ʰəɾə</item>
+        <item>ɾeːt̪ə</item>
+        <item>d̪ʱuːlə</item>
+        <item>d̪ʱəɾət̪iː</item>
+        <item>baːd̪ələ</item>
+        <item>d̪ʱʊd̪ʱə</item>
+        <item>səmaːnə</item>
+        <item>ɦəʋaː</item>
+        <item>bəɾəfə</item>
+        <item>bəɾəfə</item>
+        <item>d̪ʱʊ</item>
+        <item>ɡə</item>
+        <item>ɾaːkʰə</item>
+        <item>dʒələnaː</item>
+        <item>səɽəkə</item>
+        <item>pəɦaːɽə</item>
+        <item>laːlə</item>
+        <item>ɦəɾaː</item>
+        <item>piːlaː</item>
+        <item>səfeːd̪ə</item>
+        <item>kaːlaː</item>
+        <item>ɾaːt̪ə</item>
+        <item>d̪ɪnə</item>
+        <item>saːlə</item>
+        <item>ɡəɾəmə</item>
+        <item>ʈʰŋɖaː</item>
+        <item>puːɾaː</item>
+        <item>nəjaː</item>
+        <item>pʊɾaːnaː</item>
+        <item>tʃətʃʰaː</item>
+        <item>bʊɾaː</item>
+        <item>səɽaː</item>
+        <item>ɡənəd̪aː</item>
+        <item>siːd̪ʱaː</item>
+        <item>ɡoːlə</item>
+        <item>t̪iːkʰaː</item>
+        <item>kʊd̪ə</item>
+        <item>tʃɪkənaː</item>
+        <item>ɡiːlaː</item>
+        <item>suːkʰaː</item>
+        <item>səɦiː</item>
+        <item>nəzəd̪iːkə</item>
+        <item>d̪uːɾə</item>
+        <item>d̪aːjaː</item>
+        <item>baːjaː</item>
+        <item>peː</item>
+        <item>meː</item>
+        <item>keːsaːt̪ʰə</item>
+        <item>ɾə</item>
+        <item>ɡəɾə</item>
+        <item>kəjoːkɪ</item>
+        <item>naːmə</item>
+    </string-array>
+
+    <string-array name="Arabic">
+        <item>ʔana</item>
+        <item>ʔanta, ʔanti</item>
+        <item>huwa, hija</item>
+        <item>naħnu</item>
+        <item>ʔantum, ʔantunna, ʔantuma</item>
+        <item>humm, hunna, huma</item>
+        <item>haːðaː</item>
+        <item>ðaːlik</item>
+        <item>hunaː</item>
+        <item>hunaːka</item>
+        <item>man</item>
+        <item>maː, maːðaː</item>
+        <item>ʔajna</item>
+        <item>mataː</item>
+        <item>kajfa</item>
+        <item>laː, lam, maː</item>
+        <item>kull</item>
+        <item>kaθiːr</item>
+        <item>kam</item>
+        <item>qaliːl</item>
+        <item>ʔaːxar</item>
+        <item>waːħid</item>
+        <item>ʔiθnaːn</item>
+        <item>θalaːθa</item>
+        <item>ʔarbaʕa</item>
+        <item>xamsa</item>
+        <item>kabiːr</item>
+        <item>tˤawiːl</item>
+        <item>raħb, waːsiʕ</item>
+        <item>samiːk</item>
+        <item>θaqiːl</item>
+        <item>sˤaɣiːr</item>
+        <item>qasˤiːr</item>
+        <item>dˤajjiq</item>
+        <item>raqiːq</item>
+        <item>ʔimraʔa</item>
+        <item>radʒul</item>
+        <item>ʔinsaːn</item>
+        <item>tˤifl</item>
+        <item>zawdʒa</item>
+        <item>baʕl</item>
+        <item>ʔumm</item>
+        <item>ʔab</item>
+        <item>ħajawaːn</item>
+        <item>samak</item>
+        <item>tˤajr</item>
+        <item>kalb</item>
+        <item>qamla</item>
+        <item>ʔafʕaː, θuʕbaːn</item>
+        <item>duːda</item>
+        <item>ʃadʒara</item>
+        <item>ɣaːba</item>
+        <item>ʕuːd, ħatˤab</item>
+        <item>faːkiha</item>
+        <item>zarʕ</item>
+        <item>waraqa</item>
+        <item>dʒaðr</item>
+        <item>liħaːʔ, qilf</item>
+        <item>zahra</item>
+        <item>ʕuʃb</item>
+        <item>ħabl</item>
+        <item>dʒild</item>
+        <item>laħm</item>
+        <item>dam</item>
+        <item>ʕaðˁm</item>
+        <item>samn</item>
+        <item>bajdˤ</item>
+        <item>qarn</item>
+        <item>ðanab</item>
+        <item>riːʃa</item>
+        <item>ʃaʕr</item>
+        <item>raʔs</item>
+        <item>ʔuðun</item>
+        <item>ʕajn</item>
+        <item>ʔanf</item>
+        <item>fam</item>
+        <item>sinn</item>
+        <item>lisaːn</item>
+        <item>ðˁufr</item>
+        <item>qadam</item>
+        <item>saːq</item>
+        <item>rukba</item>
+        <item>jad</item>
+        <item>janaːħ</item>
+        <item>batˁn</item>
+        <item>ʔamʕaːʔ</item>
+        <item>ʕunuq</item>
+        <item>ðˤahr</item>
+        <item>sˤadr</item>
+        <item>qalb</item>
+        <item>kabid</item>
+        <item>ʃariba</item>
+        <item>ʔakala</item>
+        <item>ʕadˁdˁa</item>
+        <item>masˤsˤa</item>
+        <item>basˤaqa</item>
+        <item>taqajjaʔ</item>
+        <item>nafaxa</item>
+        <item>tanaffasa</item>
+        <item>dˤaħika</item>
+        <item>raʔaː</item>
+        <item>samiʕa</item>
+        <item>ʕalima</item>
+        <item>iʕtaqada</item>
+        <item>ʃamma</item>
+        <item>xaːfa</item>
+        <item>naːma</item>
+        <item>ʕaːʃa</item>
+        <item>maːta</item>
+        <item>qatala</item>
+        <item>qaːtila</item>
+        <item>sˤaːda</item>
+        <item>dˤaraba</item>
+        <item>qatˤaʕa</item>
+        <item>qasama</item>
+        <item>tˤaʕana</item>
+        <item>xadaʃa</item>
+        <item>ħufira</item>
+        <item>sabaħa</item>
+        <item>tˤaːra</item>
+        <item>maʃaː</item>
+        <item>ʔataː</item>
+        <item>istalqaː</item>
+        <item>dʒalasa</item>
+        <item>qaːma</item>
+        <item>daːra</item>
+        <item>saqatˤa</item>
+        <item>aʕtˤaː</item>
+        <item>axaða</item>
+        <item>ʕasˤara</item>
+        <item>ħaffa</item>
+        <item>ɣasala</item>
+        <item>maħaː</item>
+        <item>dʒarra</item>
+        <item>dafaʕa</item>
+        <item>ramaː</item>
+        <item>rabatˤa</item>
+        <item>qatˤaba</item>
+        <item>ʕadda</item>
+        <item>qaːla</item>
+        <item>ɣannaː</item>
+        <item>laʕiba</item>
+        <item>tˤafaː</item>
+        <item>saːla</item>
+        <item>ʔadʒlada</item>
+        <item>intafaxa</item>
+        <item>ʃams</item>
+        <item>qamar</item>
+        <item>nadʒm</item>
+        <item>maːʔ</item>
+        <item>matˤar</item>
+        <item>nahr</item>
+        <item>birka</item>
+        <item>baħr</item>
+        <item>milħ</item>
+        <item>sˤaxr</item>
+        <item>raml</item>
+        <item>ɣubaːr</item>
+        <item>ʔardˤ</item>
+        <item>saħaːba</item>
+        <item>dˤabaːb</item>
+        <item>samaːʔ</item>
+        <item>hawaːʔ</item>
+        <item>θaldʒ</item>
+        <item>dʒaliːd</item>
+        <item>duxxaːn</item>
+        <item>naːr</item>
+        <item>ramaːd</item>
+        <item>ʃaʕala,  ħaraqa</item>
+        <item>tˤariːq</item>
+        <item>dʒabal</item>
+        <item>aħmar</item>
+        <item>axdˤar</item>
+        <item>asˤfar</item>
+        <item>abyadˤ</item>
+        <item>aswad</item>
+        <item>lajla</item>
+        <item>yawm</item>
+        <item>sana</item>
+        <item>dafiːʔ</item>
+        <item>baːrid</item>
+        <item>mumtaliʔ</item>
+        <item>dʒadiːd</item>
+        <item>qadiːm</item>
+        <item>dʒajjid</item>
+        <item>sajjiʔ</item>
+        <item>faːsid</item>
+        <item>wasix</item>
+        <item>mustaqiːm</item>
+        <item>mustadiːr</item>
+        <item>ħaːdd</item>
+        <item>kaliːl</item>
+        <item>naːʕim</item>
+        <item>ratˤb</item>
+        <item>dʒaːff</item>
+        <item>sˤaħiːħ</item>
+        <item>qariːb</item>
+        <item>baʕiːd</item>
+        <item>yamiːn</item>
+        <item>yasaːr</item>
+        <item>bi</item>
+        <item>fiː</item>
+        <item>maʕa, bi</item>
+        <item>wa</item>
+        <item>ʔin, ʔiðaː, law</item>
+        <item>liʔanna, bisabab</item>
+        <item>ism</item>
+    </string-array>
+
+    <string-array name="Portuguese">
+        <item>eu</item>
+        <item>tu, vɔˈse, voˈse</item>
+        <item>ˈelɨ, ˈeli</item>
+        <item>ˈnɔʃ, ˈnɔjs</item>
+        <item>ˈvɔʃ, vɔˈseʃ, ˈvɔjs, vɔˈsejs</item>
+        <item>ˈelɨʃ, ˈelis</item>
+        <item>ˈiʃtu, ˈistu</item>
+        <item>ɐˈkilu, aˈkilu</item>
+        <item>ɐˈki, aˈki</item>
+        <item>ɐˈi, aˈi</item>
+        <item>kɐ̃j̃, kẽ̃j̃</item>
+        <item>kɨ, u kɨ, ki, u ki</item>
+        <item>ˈõdɨ, ˈõd͡ʒi</item>
+        <item>ˈkwɐ̃du</item>
+        <item>ˈkomu</item>
+        <item>nɐ̃w̃</item>
+        <item>ˈtoðu, ˈtodu</item>
+        <item>ˈmũj̃tu</item>
+        <item>aɫˈɣũʃ, auˈgũs</item>
+        <item>ˈpowku</item>
+        <item>ˈowtɾu</item>
+        <item>ũ</item>
+        <item>doiʃ, dois</item>
+        <item>tɾeʃ, tɾes</item>
+        <item>ˈkwatɾu</item>
+        <item>ˈsĩku</item>
+        <item>ˈɡɾɐ̃dɨ, ˈɡɾɐ̃d͡ʒi</item>
+        <item>ˈlõgu</item>
+        <item>ˈlaɾɣu, ˈlaʁgu</item>
+        <item>ɨʃˈpesu, isˈpesu</item>
+        <item>pɨˈzaðu, peˈzadu</item>
+        <item>pɨˈkenu, piˈkenu</item>
+        <item>ˈkuɾtu, ˈkuʁtu</item>
+        <item>ɨʃˈtɾɐjtu, isˈtɾejtu</item>
+        <item>ˈfinu</item>
+        <item>muˈʎɛɾ</item>
+        <item>ˈɔmɐ̃j̃, ˈomẽj̃</item>
+        <item>ˈɔmɐ̃j̃, ˈomẽj̃</item>
+        <item>kɾiˈɐ̃sɐ</item>
+        <item>muˈʎɛɾ, ɨʃˈpozɐ, isˈpoza</item>
+        <item>mɐˈɾiðu, ɨʃˈpozu, maˈɾidu, isˈpozu</item>
+        <item>mɐ̃j̃</item>
+        <item>pai</item>
+        <item>ɐniˈmaɫ, aniˈmaw</item>
+        <item>ˈpɐjʃɨ, ˈpejʃi</item>
+        <item>ˈavɨ, ˈavi, ˈpasɐɾu, ˈpasaɾu</item>
+        <item>kɐ̃w̃, kɐʃoʁu</item>
+        <item>piˈoʎu</item>
+        <item>sɨɾˈpẽtɨ, seʁˈpẽt͡ʃi, ˈkɔβɾɐ, ˈkɔbɾɐ</item>
+        <item>ˈvɛɾmɨ, ˈvɛʁmi</item>
+        <item>ˈaɾvuɾɨ, ˈaʁvoɾi</item>
+        <item>fluˈɾɛʃtɐ, floˈɾɛstɐ</item>
+        <item>bɐʃˈtɐ̃w̃, basˈtɐ̃w̃</item>
+        <item>ˈfɾutɐ, ˈfɾutu</item>
+        <item>sɨˈmẽtɨ, seˈmẽtʃi</item>
+        <item>ˈfoʎɐ</item>
+        <item>ʁɐˈiʃ, xa'is</item>
+        <item>ˈkaʃkɐ, ˈkaskɐ</item>
+        <item>floɾ, flox</item>
+        <item>ˈɛɾvɐ, ˈɛʁvɐ</item>
+        <item>ˈkɔɾðɐ, ˈkɔʁdɐ</item>
+        <item>ˈpɛlɨ, ˈpɛli</item>
+        <item>ˈkaɾnɨ, ˈkaʁni</item>
+        <item>ˈsɐ̃gɨ, ˈsɐ̃gi</item>
+        <item>ˈosu</item>
+        <item>ɡuɾˈðuɾɐ, ɡoʁˈduɾɐ</item>
+        <item>ˈovu</item>
+        <item>ˈʃifɾɨ, ˈkoɾnu, ˈʃifɾi, ˈkoʁnu</item>
+        <item>ˈkawðɐ, ˈʁaβu, ˈkawdɐ, ˈxabu</item>
+        <item>ˈpenɐ</item>
+        <item>kɐˈβelu, kaˈbelu</item>
+        <item>kɐˈβesɐ, kaˈbesɐ</item>
+        <item>oˈɾɐjʎɐ, oˈɾeʎɐ  </item>
+        <item>ˈoʎu</item>
+        <item>nɐˈɾiʃ, naˈɾis</item>
+        <item>ˈbokɐ</item>
+        <item>ˈdẽtɨ, ˈdẽtʃi</item>
+        <item>ˈlĩgwɐ</item>
+        <item>ˈuɲɐ</item>
+        <item>pɛ</item>
+        <item>ˈpɛɾnɐ, ˈpɛʁnɐ</item>
+        <item>ʒuˈɐʎu, ʒuˈeʎu  </item>
+        <item>mɐ̃w̃</item>
+        <item>ˈazɐ</item>
+        <item>ˈvẽtɾɨ, bɐˈʁiɣɐ, ˈvẽtɾi, baˈxigɐ</item>
+        <item>ẽˈtɾɐɲɐʃ, ĩtɨʃˈtinu, ẽˈtɾɐɲɐs, ĩtesˈt͡ʃinu</item>
+        <item>pɨʃˈkosu, pesˈkosu</item>
+        <item>ˈkɔʃtɐʃ, ˈkɔstɐs</item>
+        <item>ˈpɐjtu, ˈsɐjuʃ, ˈpejtu, ˈsejus</item>
+        <item>kuɾɐˈsɐ̃w̃, koɾaˈsɐ̃w̃</item>
+        <item>ˈfiɣɐðu, ˈfiɡɐdu</item>
+        <item>bɨˈβeɾ</item>
+        <item>kuˈmeɾ</item>
+        <item>muɾˈdeɾ</item>
+        <item>suˈɡaɾ, ʃuˈpaɾ</item>
+        <item>kuʃˈpiɾ</item>
+        <item>vumiˈtaɾ</item>
+        <item>suˈpɾaɾ</item>
+        <item>ʁɨʃpiˈɾaɾ</item>
+        <item>ʁiɾ</item>
+        <item>veɾ</item>
+        <item>owˈviɾ</item>
+        <item>sɐˈbeɾ</item>
+        <item>pẽˈsaɾ</item>
+        <item>ʃɐjˈɾaɾ</item>
+        <item>tɨˈmeɾ</item>
+        <item>duɾˈmiɾ</item>
+        <item>viˈveɾ</item>
+        <item>muˈʁeɾ</item>
+        <item>mɐˈtaɾ</item>
+        <item>luˈtaɾ</item>
+        <item>kɐˈsaɾ</item>
+        <item>bɐˈteɾ</item>
+        <item>kuɾˈtaɾ</item>
+        <item>ʁɐˈʃaɾ</item>
+        <item>iʃfɐˈkjaɾ, ɐpuɲɐˈlaɾ</item>
+        <item>ʁɐʃˈpaɾ</item>
+        <item>kɐˈvaɾ</item>
+        <item>nɐˈðaɾ</item>
+        <item>vuˈaɾ</item>
+        <item>ɐ̃ˈdaɾ, kɐmiˈɲaɾ</item>
+        <item>viɾ</item>
+        <item>dɐjˈtaɾse, ɨʃˈtaɾ, dejˈtadu</item>
+        <item>sẽˈtaɾse, ɨʃˈtaɾ, sẽˈtadu</item>
+        <item>poɾse, dɨ, pɛ, ɨʃˈtaɾ, ɐ̃j, pɛ</item>
+        <item>viˈɾaɾ, ʒiˈɾaɾ</item>
+        <item>kɐˈiɾ</item>
+        <item>daɾ</item>
+        <item>sɨɡuˈɾaɾ</item>
+        <item>ɐpɨɾˈtaɾ</item>
+        <item>ɨʃfɾɨˈɡaɾ</item>
+        <item>lɐˈvaɾ</item>
+        <item>ẽʃuˈɡaɾ</item>
+        <item>puˈʃaɾ</item>
+        <item>ẽpuˈʁaɾ</item>
+        <item>ɐtiˈɾaɾ, lɐ̃ˈsaɾ</item>
+        <item>ɐˈtaɾ</item>
+        <item>kuˈzeɾ</item>
+        <item>kõˈtaɾ</item>
+        <item>diˈzeɾ</item>
+        <item>kɐ̃ˈtaɾ</item>
+        <item>bɾĩˈkaɾ, ʒuˈɡaɾ</item>
+        <item>flutuˈaɾ, bojˈaɾ</item>
+        <item>fluˈiɾ</item>
+        <item>ʒɨˈlaɾ</item>
+        <item>ĩˈʃaɾ</item>
+        <item>sɔl</item>
+        <item>ˈluɐ</item>
+        <item>ɨʃˈtɾelɐ</item>
+        <item>ˈaɡwɐ</item>
+        <item>ˈʃuvɐ</item>
+        <item>ˈʁiu</item>
+        <item>ˈlaɡu</item>
+        <item>maɾ</item>
+        <item>sal</item>
+        <item>ˈpɛdɾɐ</item>
+        <item>ɐˈɾɐjɐ</item>
+        <item>puˈɐjɾɐ</item>
+        <item>ˈtɛʁɐ</item>
+        <item>ˈnuvɐ̃j</item>
+        <item>nɨvuˈɐjɾu</item>
+        <item>sɛw</item>
+        <item>ˈvẽtu</item>
+        <item>ˈnɛvɨ</item>
+        <item>ˈʒelu</item>
+        <item>ˈfumu</item>
+        <item>ˈfoɡu</item>
+        <item>ˈsĩzɐʃ</item>
+        <item>ɐɾˈdeɾ, kɐjˈmaɾ</item>
+        <item>ɨʃˈtɾadɐ</item>
+        <item>mõˈtɐɲɐ</item>
+        <item>vɨɾˈmɐjʎu</item>
+        <item>ˈveɾdɨ</item>
+        <item>ɐmɐˈɾɛlu</item>
+        <item>ˈbɾɐ̃ku</item>
+        <item>ˈpɾetu, ˈneɡɾu</item>
+        <item>ˈnɔjtɨ</item>
+        <item>ˈdiɐ</item>
+        <item>ˈɐnu</item>
+        <item>kẽˈtɨ</item>
+        <item>ˈfɾiu</item>
+        <item>ˈʃɐju</item>
+        <item>ˈnovu</item>
+        <item>ˈvɛʎu</item>
+        <item>bõ</item>
+        <item>maw</item>
+        <item>ˈpodɾɨ</item>
+        <item>ˈsuʒu</item>
+        <item>diˈɾɐjtu</item>
+        <item>ʁɨˈdõdu</item>
+        <item>ɐfiˈadu, ɐɡuˈsadu</item>
+        <item>ˈsɛɣu, ˈsɛɡu</item>
+        <item>ˈlizu</item>
+        <item>ˈumiðu, ˈumidu</item>
+        <item>ˈseku</item>
+        <item>kuˈʁɛtu, koˈʁɛtu</item>
+        <item>ˈpɛɾtu, ˈpɛʁtu</item>
+        <item>ˈlõʒɨ, ˈlõʒi</item>
+        <item>diˈɾɐjtɐ</item>
+        <item>ɨʃˈkeɾðɐ</item>
+        <item>ɐ ɐ̃j̃, a ẽj̃</item>
+        <item>ɐ̃j̃, ẽj̃</item>
+        <item>kõ</item>
+        <item>i</item>
+        <item>sɨ, si</item>
+        <item>ˈpuɾkɨ, pʊɾˈke</item>
+        <item>ˈnomɨ, ˈnɔmi</item>
+    </string-array>
+
+    <string-array name="Bengali">
+        <item>ami</item>
+        <item>t̪umi</item>
+        <item>sɛ</item>
+        <item>amɔra</item>
+        <item>t̪omɔra</item>
+        <item>t̪ara</item>
+        <item>ɛ</item>
+        <item>o</item>
+        <item>ɛkʰanɛ</item>
+        <item>okʰanɛ</item>
+        <item>kɛ</item>
+        <item>ki</item>
+        <item>kot̪ʰae̯ɔ</item>
+        <item>kɔkʰɔnɔ</item>
+        <item>kɛmɔnɔ</item>
+        <item>na</item>
+        <item>sɔbɔ</item>
+        <item>ɔnɛkɔ</item>
+        <item>kitʃʰu</item>
+        <item>kɔmɔ</item>
+        <item>ɔnydʒɔ</item>
+        <item>ɛkɔ</item>
+        <item>d̪ui</item>
+        <item>t̪inɔ</item>
+        <item>tʃarɔ</item>
+        <item>pa◌̃ tʃʰɔ</item>
+        <item>bɔɽɔ</item>
+        <item>lɔmyba</item>
+        <item>tʃoɽa</item>
+        <item>moʈa</item>
+        <item>bʱari</item>
+        <item>tʃʰoʈɔ</item>
+        <item>bɛʈʰɛ</item>
+        <item>tʃipa</item>
+        <item>pat̪ɔla</item>
+        <item>mɔɦila</item>
+        <item>puruʃɔ</item>
+        <item>manuʃɔ</item>
+        <item>batʃytʃa</item>
+        <item>bu</item>
+        <item>dʒamai</item>
+        <item>ma</item>
+        <item>baba</item>
+        <item>dʒɔnyt̪u</item>
+        <item>matʃʰɔ</item>
+        <item>pakʰi</item>
+        <item>kukurɔ</item>
+        <item>u◌̃ kunɔ</item>
+        <item>sapɔ</item>
+        <item>krimi</item>
+        <item>ɡatʃʰɔ</item>
+        <item>bɔnɔ</item>
+        <item>laʈʰi</item>
+        <item>ɸɔlɔ</item>
+        <item>bitʃi</item>
+        <item>pat̪a</item>
+        <item>ʃikɔrɔ</item>
+        <item>tʃʰalɔ</item>
+        <item>ɸulɔ</item>
+        <item>ɡasɔ</item>
+        <item>d̪ɔɽi</item>
+        <item>tʃamɔɽa</item>
+        <item>maŋsɔ</item>
+        <item>rɔkyt̪ɔ</item>
+        <item>ɦaɽi</item>
+        <item>tʃɔrybi</item>
+        <item>ɖimɔ</item>
+        <item>ʃiŋ</item>
+        <item>lɛdʒɔ</item>
+        <item>pɔrɔ</item>
+        <item>tʃulɔ</item>
+        <item>mat̪ʰa</item>
+        <item>kanɔ</item>
+        <item>tʃokʰɔ</item>
+        <item>nakɔ</item>
+        <item>mukʰɔ</item>
+        <item>d̪a◌̃ t̪ɔ</item>
+        <item>dʒibʱɔ</item>
+        <item>nɔkʰɔ</item>
+        <item>pa</item>
+        <item>pa</item>
+        <item>ɦa◌̃ ʈu</item>
+        <item>ɦat̪ɔ</item>
+        <item>pakʰa</item>
+        <item>pɛʈɔ</item>
+        <item>bʱuɽi</item>
+        <item>ɡɔla</item>
+        <item>piʈʰɔ</item>
+        <item>bukɔ</item>
+        <item>ɦrid̪ɔe̯ɔ</item>
+        <item>kɔlɔdʒɛ</item>
+        <item>panɔ</item>
+        <item>kʰaoe̯a</item>
+        <item>kamɔɽano</item>
+        <item>tʃoʃa</item>
+        <item>tʃʰydʒapɔ</item>
+        <item>bɔmi</item>
+        <item>ɸu◌̃ d̪ɛt̪yt̪ɔe̯a</item>
+        <item>ʃybasɔnɛoe̯a</item>
+        <item>ɦasa</item>
+        <item>d̪ɛkʰa</item>
+        <item>ʃona</item>
+        <item>dʒana</item>
+        <item>bʱaba</item>
+        <item>ʃo◌̃ ka</item>
+        <item>bʱɔe̯ɔkɔra</item>
+        <item>ɡʱuma</item>
+        <item>ba◌̃ tʃa</item>
+        <item>mɔra</item>
+        <item>mara</item>
+        <item>lɔɽa</item>
+        <item>sikarɔkɔra</item>
+        <item>mara</item>
+        <item>kaʈa</item>
+        <item>bibʱɔkyt̪ɔkɔra</item>
+        <item>tʃʰoramara</item>
+        <item>kʰamɔtʃano</item>
+        <item>kʰo◌̃ ɽa</item>
+        <item>sa◌̃ t̪ɔrano</item>
+        <item>oɽa</item>
+        <item>ɦa◌̃ ʈa</item>
+        <item>asa</item>
+        <item>ʃoe̯a</item>
+        <item>bɔsa</item>
+        <item>d̪a◌̃ ɽano</item>
+        <item>ɡʱora</item>
+        <item>pɔɽa</item>
+        <item>d̪ɛt̪yt̪ɔe̯a</item>
+        <item>d̪ʱɔra</item>
+        <item>tʃɛpɔ</item>
+        <item>ɡʱɔʃa</item>
+        <item>d̪ʱoe̯a</item>
+        <item>motʃʰa</item>
+        <item>ʈana</item>
+        <item>ʈʰɛla</item>
+        <item>ɸɛla</item>
+        <item>ba◌̃ d̪ʱa</item>
+        <item>ʈa◌̃ ka</item>
+        <item>ɡona</item>
+        <item>bɔla</item>
+        <item>ɡaoe̯a</item>
+        <item>kʰɛla</item>
+        <item>bʱasa</item>
+        <item>bɔɦa</item>
+        <item>dʒɔma</item>
+        <item>ɸa◌̃ pa</item>
+        <item>sourydʒɔ</item>
+        <item>tʃa◌̃ d̪ɔ</item>
+        <item>t̪ara</item>
+        <item>pani</item>
+        <item>briʃyʈi</item>
+        <item>nɔd̪i</item>
+        <item>pukurɔ</item>
+        <item>sɔmud̪yrɔ</item>
+        <item>nunɔ</item>
+        <item>pat̪ʰɔrɔ</item>
+        <item>bali</item>
+        <item>d̪ʱulo</item>
+        <item>maʈi</item>
+        <item>mɛɡʱɔ</item>
+        <item>kue̯aʃa</item>
+        <item>akaʃɔ</item>
+        <item>bat̪asɔ</item>
+        <item>bɔrɔɸɔ</item>
+        <item>bɔrɔɸɔ</item>
+        <item>d̪ʱu◌̃ e̯o</item>
+        <item>aɡunɔ</item>
+        <item>tʃʰai</item>
+        <item>pora</item>
+        <item>rasyt̪a</item>
+        <item>paɦaɽɔ</item>
+        <item>lalɔ</item>
+        <item>sɔbudʒɔ</item>
+        <item>ɦɔlud̪ɔ</item>
+        <item>sad̪a</item>
+        <item>kalo</item>
+        <item>rat̪yrɔ</item>
+        <item>d̪inɔ</item>
+        <item>bɔtʃʰɔrɔ</item>
+        <item>ɡɔrɔmɔ</item>
+        <item>ʈʰanyɖa</item>
+        <item>bʱɔra</item>
+        <item>nɔt̪unɔ</item>
+        <item>purano</item>
+        <item>bʱalo</item>
+        <item>kʰarapɔ</item>
+        <item>pɔtʃa</item>
+        <item>mɔe̯ɔla</item>
+        <item>sodʒa</item>
+        <item>ɡolɔ</item>
+        <item>tʃokyʃa</item>
+        <item>bʱo◌̃ t̪a</item>
+        <item>mɔsrinɔ</item>
+        <item>bʱɛdʒa</item>
+        <item>ʃukɔna</item>
+        <item>ʈʰikɔ</item>
+        <item>katʃʰɛ</item>
+        <item>d̪ourɔ</item>
+        <item>ɖanɔ</item>
+        <item>ba◌̃ </item>
+        <item>ɛ</item>
+        <item>ɛ</item>
+        <item>rɔsat̪ʰɛ</item>
+        <item>arɔ</item>
+        <item>dʒɔd̪i</item>
+        <item>karɔnɔ</item>
+        <item>namɔ</item>
+    </string-array>
+
+    <string-array name="Russian">
+        <item>ja</item>
+        <item>tɨ</item>
+        <item>on</item>
+        <item>mɨ</item>
+        <item>vɨ</item>
+        <item>ɐˈnʲi</item>
+        <item>ˈɛtə</item>
+        <item>to</item>
+        <item>zdʲesʲ, tut</item>
+        <item>tam</item>
+        <item>kto</item>
+        <item>ʂto</item>
+        <item>ɡdʲe</item>
+        <item>kɐˈɡda</item>
+        <item>kak</item>
+        <item>nʲe</item>
+        <item>fsʲɵ, fsʲe</item>
+        <item>ˈmnoɡʲɪjɪ</item>
+        <item>ˈnʲeskəlʲkə</item>
+        <item>nʲɪˈmnoɡʲɪjɪ</item>
+        <item>drʊˈɡoj, ɪˈnoj</item>
+        <item>ɐˈdʲin</item>
+        <item>dva</item>
+        <item>trʲi</item>
+        <item>tɕɪˈtɨrʲɪ</item>
+        <item>pʲætʲ</item>
+        <item>bɐˈlʲʂoj</item>
+        <item>ˈdʲlʲinnɨj</item>
+        <item>ʂɨˈrokʲɪj</item>
+        <item>ˈtolstɨj</item>
+        <item>tʲɪˈʐolɨj</item>
+        <item>ˈmalʲɪnʲkʲɪj</item>
+        <item>kɐˈrotkʲɪj</item>
+        <item>ˈuskʲɪj</item>
+        <item>ˈtonkʲɪj</item>
+        <item>ˈʐenʲɕɕɪnə</item>
+        <item>mʊˈɕɕinə</item>
+        <item>tɕɪlɐˈvʲek</item>
+        <item>rʲɪˈbʲɵnək, dʲɪˈtʲa</item>
+        <item>ʐɨˈna</item>
+        <item>muʂ</item>
+        <item>matʲ</item>
+        <item>ɐˈtʲets</item>
+        <item>zvʲerʲ, ʐɨˈvotnəjɪ</item>
+        <item>ˈrɨbə</item>
+        <item>ˈptʲitsə</item>
+        <item>sɐˈbakə, pʲɵs</item>
+        <item>voʂ</item>
+        <item>zmʲɪˈja</item>
+        <item>tɕerfʲ</item>
+        <item>ˈdʲerʲɪvə</item>
+        <item>lʲes</item>
+        <item>ˈpɑlkə</item>
+        <item>plot</item>
+        <item>ˈsʲemʲə, sʲɪmʲɪˈna</item>
+        <item>lʲist</item>
+        <item>ˈkorʲɪnʲ</item>
+        <item>kɐˈra</item>
+        <item>tsvʲɪˈtok</item>
+        <item>trɐˈva</item>
+        <item>vʲɪˈrʲɵfkə</item>
+        <item>ˈkoʐə</item>
+        <item>ˈmʲasə</item>
+        <item>krofʲ</item>
+        <item>kosʲtʲ</item>
+        <item>ˈʐɨr</item>
+        <item>jɪjˈt͡so</item>
+        <item>rok</item>
+        <item>xvost</item>
+        <item>pʲɪˈro</item>
+        <item>ˈvoləsɨ</item>
+        <item>gəlɐˈva</item>
+        <item>ˈuxə</item>
+        <item>ɡlas</item>
+        <item>nos</item>
+        <item>rot</item>
+        <item>zup</item>
+        <item>jɪˈzɨk</item>
+        <item>ˈnoɡətʲ</item>
+        <item>stɐˈpa</item>
+        <item>nɐˈɡa</item>
+        <item>kɐˈlʲenə</item>
+        <item>rʊˈka</item>
+        <item>krɨˈlo</item>
+        <item>ʐɨˈvot</item>
+        <item>ˈvnutrʲɪnnəsʲtʲɪ, kʲɪˈʂkʲi</item>
+        <item>ˈʂejə</item>
+        <item>spʲɪˈna</item>
+        <item>ɡrutʲ</item>
+        <item>ˈsʲertsɪ</item>
+        <item>ˈpʲetɕɪnʲ</item>
+        <item>pʲitʲ</item>
+        <item>jestʲ, ˈkuʂətʲ</item>
+        <item>ɡrɨstʲ, kʊˈsatʲ</item>
+        <item>sɐˈsatʲ</item>
+        <item>plʲɪˈvatʲ</item>
+        <item>rvatʲ, blʲɪˈvatʲ</item>
+        <item>dutʲ</item>
+        <item>dɨˈʂatʲ</item>
+        <item>smʲɪˈjatsə</item>
+        <item>ˈvʲidʲɪtʲ</item>
+        <item>ˈslɨʂətʲ</item>
+        <item>znatʲ</item>
+        <item>ˈdumətʲ</item>
+        <item>ˈnʲʉxətʲ, ˈtɕʉjətʲ</item>
+        <item>bɐˈjatsə</item>
+        <item>spatʲ</item>
+        <item>ʐɨtʲ</item>
+        <item>ʊmʲɪˈratʲ</item>
+        <item>ʊbʲɪˈvatʲ</item>
+        <item>bɐˈrotsə</item>
+        <item>ɐˈxotʲɪtsə</item>
+        <item>ʊˈdarʲɪtʲ</item>
+        <item>ˈrʲezətʲ, rʊˈbʲitʲ</item>
+        <item>rəzʲdʲɪˈlʲitʲ</item>
+        <item>kɐˈlʲnutʲ</item>
+        <item>tsəˈrapətʲ</item>
+        <item>kɐˈpatʲ, rɨtʲ</item>
+        <item>ˈplavətʲ</item>
+        <item>lʲɪˈtatʲ</item>
+        <item>xɐˈdʲitʲ, ɪˈtʲːi</item>
+        <item>prʲɪxɐˈdʲitʲ, prʲɪjˈtʲi</item>
+        <item>lʲɪˈʐatʲ</item>
+        <item>sʲɪˈdʲetʲ</item>
+        <item>stɐˈjætʲ</item>
+        <item>vrɐˈɕɕætʲ, vʲɪˈrtʲetʲ</item>
+        <item>ˈpadətʲ</item>
+        <item>dɐˈvatʲ</item>
+        <item>dʲɪˈrʐatʲ</item>
+        <item>ʑʑiˈmatʲ</item>
+        <item>tʲɪˈrʲetʲ</item>
+        <item>mɨtʲ, ʊmɨˈvatʲ</item>
+        <item>vɨtʲɪˈratʲ</item>
+        <item>tʲɪˈnutʲ</item>
+        <item>tɐˈlkatʲ, pʲɪˈxatʲ</item>
+        <item>brɐˈsatʲ, kʲɪˈdatʲ</item>
+        <item>vʲɪˈzatʲ, ˈsvʲazɨvətʲ</item>
+        <item>ʂɨtʲ</item>
+        <item>ɕɕɪˈtatʲ</item>
+        <item>ɡəvɐˈrʲitʲ, skɐˈzatʲ</item>
+        <item>pʲetʲ</item>
+        <item>ɪˈɡratʲ</item>
+        <item>plɨtʲ</item>
+        <item>tʲetɕ</item>
+        <item>zəˈmʲɵrznʊtʲ</item>
+        <item>ˈpuxnʊtʲ</item>
+        <item>ˈsontsə</item>
+        <item>lʊˈna</item>
+        <item>zvʲɪˈzda</item>
+        <item>vɐˈda</item>
+        <item>doʂtʲ</item>
+        <item>rʲɪˈka</item>
+        <item>ˈozʲɪrə</item>
+        <item>ˈmorʲɪ</item>
+        <item>solʲ</item>
+        <item>ˈkamʲɪnʲ</item>
+        <item>pʲɪˈsok</item>
+        <item>pɨlʲ</item>
+        <item>zʲɪˈmlʲa</item>
+        <item>ˈobləkə, ˈtutɕə</item>
+        <item>tʊˈman</item>
+        <item>ˈnʲebə</item>
+        <item>ˈvʲetʲɪr</item>
+        <item>sʲnʲek</item>
+        <item>lʲɵt</item>
+        <item>dɨm</item>
+        <item>ɐˈɡonʲ</item>
+        <item>zɐˈla, ˈpʲepʲɪl</item>
+        <item>ʐetɕ</item>
+        <item>dɐˈroɡə, putʲ</item>
+        <item>ɡɐˈra</item>
+        <item>ˈkrasnɨj</item>
+        <item>zʲɪˈlʲɵnɨj</item>
+        <item>ˈʐoltɨj</item>
+        <item>ˈbʲelɨj</item>
+        <item>ˈtɕɵrnɨj</item>
+        <item>notɕ</item>
+        <item>dʲenʲ</item>
+        <item>ɡot</item>
+        <item>ˈtʲɵplɨj</item>
+        <item>xɐˈlodnɨj</item>
+        <item>ˈpolnɨj</item>
+        <item>ˈnovɨj</item>
+        <item>ˈstarɨj</item>
+        <item>xɐˈroʂɨj, ˈdobrɨj</item>
+        <item>plɐˈxoj, zloj</item>
+        <item>ɡnʲɪˈloj</item>
+        <item>ˈɡrʲaznɨj</item>
+        <item>prʲɪˈmoj</item>
+        <item>ˈkruɡlɨj</item>
+        <item>ˈostrɨj</item>
+        <item>tʊˈpoj</item>
+        <item>ˈɡlatkʲɪj, ˈrovnɨj</item>
+        <item>ˈmokrɨj</item>
+        <item>sʊˈxoj</item>
+        <item>ˈpravʲɪlʲnɨj</item>
+        <item>ˈblʲiskʲɪj</item>
+        <item>dɐˈlʲɵkʲɪj, ˈdalʲnʲɪj</item>
+        <item>ˈpravɨj</item>
+        <item>ˈlʲevɨj</item>
+        <item>prʲi, u, ˈvozlʲɪ</item>
+        <item>v</item>
+        <item>s</item>
+        <item>i</item>
+        <item>ˈjeslʲɪ</item>
+        <item>pətɐˈmu ʂtə</item>
+        <item>ˈimʲə</item>
+    </string-array>
+
+    <string-array name="Japanese">
+        <item>ɰataɕi</item>
+        <item>anata</item>
+        <item>kaɾe</item>
+        <item>ɰataɕitat͡ɕi</item>
+        <item>anatatat͡ɕi</item>
+        <item>kaɾeɾa</item>
+        <item>koɾe</item>
+        <item>aɾe</item>
+        <item>koko</item>
+        <item>soko</item>
+        <item>daɾe</item>
+        <item>naɲi</item>
+        <item>doko</item>
+        <item>it͡sɯ</item>
+        <item>ikaɡa</item>
+        <item>nai</item>
+        <item>sɯbete</item>
+        <item>ooi</item>
+        <item>sɯkoɕi</item>
+        <item>sɯkɯnai</item>
+        <item>hoka</item>
+        <item>çitot͡sɯ</item>
+        <item>ɸɯtat͡sɯ</item>
+        <item>mit͡sɯ</item>
+        <item>jot͡sɯ</item>
+        <item>it͡sɯt͡sɯ</item>
+        <item>ookii</item>
+        <item>naɡai</item>
+        <item>çiɾoi</item>
+        <item>at͡sɯi</item>
+        <item>omoi</item>
+        <item>t͡ɕiisai</item>
+        <item>miʑikai</item>
+        <item>semai</item>
+        <item>hosoi</item>
+        <item>onna</item>
+        <item>otoko</item>
+        <item>çito</item>
+        <item>ko</item>
+        <item>t͡sɯma</item>
+        <item>oto</item>
+        <item>haha</item>
+        <item>t͡ɕit͡ɕi</item>
+        <item>kemono</item>
+        <item>ɯo</item>
+        <item>toɾi</item>
+        <item>inɯ</item>
+        <item>ɕiɾami</item>
+        <item>hebi</item>
+        <item>mimizɯ</item>
+        <item>ki</item>
+        <item>moɾi</item>
+        <item>t͡sɯe</item>
+        <item>kɯdamono</item>
+        <item>tane</item>
+        <item>ha</item>
+        <item>ne</item>
+        <item>ʑɯçi</item>
+        <item>hana</item>
+        <item>kɯsa</item>
+        <item>naɰa</item>
+        <item>kaɰa</item>
+        <item>ɲikɯ</item>
+        <item>t͡ɕi</item>
+        <item>hone</item>
+        <item>abɯɾa</item>
+        <item>tamaɡo</item>
+        <item>t͡sɯno</item>
+        <item>o</item>
+        <item>hane</item>
+        <item>kami</item>
+        <item>atama</item>
+        <item>mimi</item>
+        <item>me</item>
+        <item>hana</item>
+        <item>kɯt͡ɕi</item>
+        <item>ha</item>
+        <item>ɕita</item>
+        <item>t͡sɯme</item>
+        <item>aɕi</item>
+        <item>aɕi</item>
+        <item>çiza</item>
+        <item>te</item>
+        <item>t͡sɯbasa</item>
+        <item>haɾa</item>
+        <item>haɾaɰata</item>
+        <item>kɯbi</item>
+        <item>se</item>
+        <item>mɯne</item>
+        <item>kokoɾo</item>
+        <item>kimo</item>
+        <item>nomɯ</item>
+        <item>tabeɾɯ</item>
+        <item>kamɯ</item>
+        <item>sɯɯ</item>
+        <item>hakɯ</item>
+        <item>hakɯ</item>
+        <item>ɸɯkɯ</item>
+        <item>ikisɯɾɯ</item>
+        <item>ɰaɾaɯ</item>
+        <item>miɾɯ</item>
+        <item>kikɯ</item>
+        <item>ɕiɾɯ</item>
+        <item>omoɯ</item>
+        <item>kaɡɯ</item>
+        <item>osoɾeɾɯ</item>
+        <item>neɾɯ</item>
+        <item>ikiɾɯ</item>
+        <item>ɕinɯ</item>
+        <item>koɾosɯ</item>
+        <item>tatakaɯ</item>
+        <item>kaɾɯ</item>
+        <item>tatakɯ</item>
+        <item>kiɾɯ</item>
+        <item>ɰaɾɯ</item>
+        <item>sasɯ</item>
+        <item>kakɯ</item>
+        <item>hoɾɯ</item>
+        <item>ojoɡɯ</item>
+        <item>tobɯ</item>
+        <item>aɾɯkɯ</item>
+        <item>kɯɾɯ</item>
+        <item>neɾɯ</item>
+        <item>sɯɰaɾɯ</item>
+        <item>okiɾɯ</item>
+        <item>maɰaɾɯ</item>
+        <item>ot͡ɕiɾɯ</item>
+        <item>okɯɾɯ</item>
+        <item>mot͡sɯ</item>
+        <item>ɕiboɾɯ</item>
+        <item>kosɯɾɯ</item>
+        <item>aɾaɯ</item>
+        <item>ɸɯkɯ</item>
+        <item>çikɯ</item>
+        <item>osɯ</item>
+        <item>naɡeɾɯ</item>
+        <item>mɯsɯbɯ</item>
+        <item>nɯɯ</item>
+        <item>kazoeɾɯ</item>
+        <item>iɯ</item>
+        <item>ɯtaɯ</item>
+        <item>asobɯ</item>
+        <item>ɯkɯ</item>
+        <item>naɡaɾeɾɯ</item>
+        <item>kooɾɯ</item>
+        <item>ɸɯkɯɾamɯ</item>
+        <item>çi</item>
+        <item>t͡sɯki</item>
+        <item>hoɕi</item>
+        <item>mizɯ</item>
+        <item>ame</item>
+        <item>kaɰa</item>
+        <item>mizɯɯmi</item>
+        <item>ɯmi</item>
+        <item>ɕio</item>
+        <item>iɕi</item>
+        <item>sɯna</item>
+        <item>t͡ɕiɾi</item>
+        <item>t͡sɯt͡ɕi</item>
+        <item>kɯmo</item>
+        <item>kiɾi</item>
+        <item>soɾa</item>
+        <item>kaze</item>
+        <item>jɯki</item>
+        <item>kooɾi</item>
+        <item>kemɯɾi</item>
+        <item>çi</item>
+        <item>hai</item>
+        <item>moeɾɯ</item>
+        <item>mit͡ɕi</item>
+        <item>jama</item>
+        <item>aka</item>
+        <item>midoɾi</item>
+        <item>ki</item>
+        <item>ɕiɾo</item>
+        <item>kɯɾo</item>
+        <item>joɾɯ</item>
+        <item>çi</item>
+        <item>toɕi</item>
+        <item>atatakai</item>
+        <item>samɯi</item>
+        <item>mit͡ɕiɾɯ</item>
+        <item>ataɾaɕii</item>
+        <item>ɸɯɾɯi</item>
+        <item>ii</item>
+        <item>ɰaɾɯi</item>
+        <item>kɯsaɾɯ</item>
+        <item>kitanai</item>
+        <item>sɯɡɯ</item>
+        <item>maɾɯi</item>
+        <item>sɯɾɯdoi</item>
+        <item>ɲibɯi</item>
+        <item>nameɾaka</item>
+        <item>nɯɾeɾɯ</item>
+        <item>kaɰakɯ</item>
+        <item>tadaɕii</item>
+        <item>t͡ɕikai</item>
+        <item>tooi</item>
+        <item>miɡi</item>
+        <item>çidaɾi</item>
+        <item>de</item>
+        <item>de</item>
+        <item>to</item>
+        <item>to</item>
+        <item>moɕi</item>
+        <item>kaɾa</item>
+        <item>na</item>
+    </string-array>
+
+    <string-array name="Punjabi">
+        <item>mɛ</item>
+        <item>t̪uː</item>
+        <item>ʊɦɔ</item>
+        <item>əsiː</item>
+        <item>t̪ʊsiː</item>
+        <item>ʊɦɔ</item>
+        <item>ɪɦɔ</item>
+        <item>ʊɦɔ</item>
+        <item>ɪt̪ʰe</item>
+        <item>ʊt̪ʰe</item>
+        <item>kɔɳɔ</item>
+        <item>kiː</item>
+        <item>kɪt̪ʰe</item>
+        <item>kɔd̪o</item>
+        <item>kɪʋe</item>
+        <item>koiː</item>
+        <item>sɔp◌̀ɔ</item>
+        <item>bɔɦʊt̪ɔ</item>
+        <item>kʊt͡ʃ◌̀ɔ</item>
+        <item>t͡ʃʰoʈäː</item>
+        <item>d̪uːd͡ʒäː</item>
+        <item>ɪkɔ</item>
+        <item>d̪o</item>
+        <item>t̪ɪnɔ</item>
+        <item>t͡ʃäːɾɔ</item>
+        <item>pɔd͡ʒɔ</item>
+        <item>ʋɔɖäː</item>
+        <item>lɔmäː</item>
+        <item>t͡ʃɔɽäː</item>
+        <item>moʈäː</item>
+        <item>p◌̀äːɾiː</item>
+        <item>t͡ʃʰoʈäː</item>
+        <item>t͡ʃʰoʈäː</item>
+        <item>p◌̀iːɖɔäː</item>
+        <item>pɔt̪ɔläː</item>
+        <item>ɔɾɔt̪ɔ</item>
+        <item>äːd̪ɔmiː</item>
+        <item>mɔnʊkʰiː</item>
+        <item>bɔt͡ʃäː</item>
+        <item>pɔt̪ɔniː</item>
+        <item>pɔt̪iː</item>
+        <item>mäːt̪äː</item>
+        <item>pɪt̪äː</item>
+        <item>d͡ʒäːnɔʋɔɾɔ</item>
+        <item>mɔt͡ʃʰiː</item>
+        <item>pɔt͡ʃʰiː</item>
+        <item>kʊt̪äː</item>
+        <item>leɦäː</item>
+        <item>sɔpɔ</item>
+        <item>kiːɽäː</item>
+        <item>ɾʊkʰɔ</item>
+        <item>d͡ʒɔgɔlɔ</item>
+        <item>soʈiː</item>
+        <item>pʰɔlɔ</item>
+        <item>biːd͡ʒɔ</item>
+        <item>pɔt̪äː</item>
+        <item>d͡ʒɔɽɔɦɔ</item>
+        <item>t͡ʃʰäːlɔ</item>
+        <item>pʰʊlɔ</item>
+        <item>k◌̀äːɦɔ</item>
+        <item>ɾɔsiː</item>
+        <item>t͡ʃɔmɔɽiː</item>
+        <item>mäːsɔ</item>
+        <item>kʰɔuːnɔ</item>
+        <item>ɦɔɖiː</item>
+        <item>t͡ʃɔɾɔbiː</item>
+        <item>ɪgäː</item>
+        <item>sɪgɔ</item>
+        <item>puːt͡ʃʰɔ</item>
+        <item>pɔt̪ɔ</item>
+        <item>ʋäːlɔ</item>
+        <item>sɪɾɔ</item>
+        <item>kɔnɔ</item>
+        <item>əkʰɔ</item>
+        <item>nɔkɔ</item>
+        <item>muːɦɔ</item>
+        <item>d̪ɔd̪ɔ</item>
+        <item>d͡ʒiːp◌̀ɔ</item>
+        <item>nɔgɔlɔ</item>
+        <item>pɛɾɔ</item>
+        <item>lɔt̪ɔ</item>
+        <item>goɖe</item>
+        <item>ɦɔt̪ʰɔ</item>
+        <item>pɔkʰɔ</item>
+        <item>ʈ◌̀ɪɖɔ</item>
+        <item>ɦɪmɔt̪ɔ</item>
+        <item>gɔɾɔd̪ɔnɔ</item>
+        <item>ʋäːpɔsɔ</item>
+        <item>t͡ʃʰäːt̪iː</item>
+        <item>d̪ɪlɔ</item>
+        <item>d͡ʒɪgɔɾɔ</item>
+        <item>piːɳäː</item>
+        <item>kʰäːɳäː</item>
+        <item>ʋɔʈ◌̀ɔɳäː</item>
+        <item>t͡ʃuːsɔɳäː</item>
+        <item>t̪ʰʊkɔɳäː</item>
+        <item>ʊlɔʈiːkɔɾɔnäː</item>
+        <item>pʰuːkɔɳäː</item>
+        <item>säːɦɔlɛɳäː</item>
+        <item>ɦɔsɔɳäː</item>
+        <item>ʋekʰɔɳäː</item>
+        <item>sʊɳɔnäː</item>
+        <item>d͡ʒäːɳɔnäː</item>
+        <item>sot͡ʃɔɳäː</item>
+        <item>sʊk◌̀ɔɳäː</item>
+        <item>ɖɔɾɔnäː</item>
+        <item>sɔɳäː</item>
+        <item>d͡ʒɪuːɳäː</item>
+        <item>mɔɾɔnäː</item>
+        <item>mäːɾɔnäː</item>
+        <item>lɔɽɔnäː</item>
+        <item>ʈolɔɳäː</item>
+        <item>d͡ʒɔɽɔnäː</item>
+        <item>kɔʈɔɳäː</item>
+        <item>päːɽɔnäː</item>
+        <item>kʰop◌̀ɔɳäː</item>
+        <item>k◌̀ɔɾuːɖɔɳäː</item>
+        <item>pʊʈɔɳäː</item>
+        <item>t̪ɛɾɔnäː</item>
+        <item>ʊɖɔɳäː</item>
+        <item>t̪ʊɾɔnäː</item>
+        <item>äːʊɳäː</item>
+        <item>leʈɔɳäː</item>
+        <item>bɔɦɪɳäː</item>
+        <item>kʰɔɽɔɦɔnäː</item>
+        <item>mʊɽɔnäː</item>
+        <item>ɖɪgɔɳäː</item>
+        <item>d̪eɳäː</item>
+        <item>pʰɔɽɔnäː</item>
+        <item>nɔt͡ʃoɽɔnäː</item>
+        <item>mɔlɔnäː</item>
+        <item>t̪◌̀oɳäː</item>
+        <item>ɦuːt͡ʃ◌̀ɔɳäː</item>
+        <item>kʰɪt͡ʃɔɳäː</item>
+        <item>t̪◌̀ɔkɔɳäː</item>
+        <item>sʊʈɔɳäː</item>
+        <item>bɔnɔɦɔɳäː</item>
+        <item>sɪuːɳäː</item>
+        <item>gɪɳɔnäː</item>
+        <item>äːkʰɔɳäː</item>
+        <item>gäːʊɳäː</item>
+        <item>kʰeɖɔɳäː</item>
+        <item>t̪äːɾɔnäː</item>
+        <item>ʋɔgɔɳäː</item>
+        <item>d͡ʒɔmɔɳäː</item>
+        <item>sʊd͡ʒɔɳäː</item>
+        <item>suːɾɔd͡ʒɔ</item>
+        <item>t͡ʃɔd̪ɔ</item>
+        <item>t̪äːɾäː</item>
+        <item>päːɳiː</item>
+        <item>bäːɾɪsɔ</item>
+        <item>nɔd̪iː</item>
+        <item>t͡ʃ◌̀iːlɔ</item>
+        <item>sɔmʊd̪ɔɾɔ</item>
+        <item>luːɳɔ</item>
+        <item>pɔt̪ʰɔɾɔ</item>
+        <item>ɾet̪ɔ</item>
+        <item>t̪◌̀uːɽɔ</item>
+        <item>t̪◌̀ɔɾɔt̪iː</item>
+        <item>bɔd̪ɔlɔ</item>
+        <item>koɦɔ</item>
+        <item>əsɔmäːnɔ</item>
+        <item>ɦɔʋäː</item>
+        <item>bɔɾɔpʰɔ</item>
+        <item>bɔɾɔpʰɔ</item>
+        <item>t̪◌̀uːäː</item>
+        <item>əgɔ</item>
+        <item>əsɔt̪ʰiːäː</item>
+        <item>säːɽɔnäː</item>
+        <item>sɔɽɔkɔ</item>
+        <item>pɔɦäːɽɔ</item>
+        <item>läːlɔ</item>
+        <item>ɦɔɾäː</item>
+        <item>piːläː</item>
+        <item>sɔpʰɛd̪ɔ</item>
+        <item>käːläː</item>
+        <item>ɾäːt̪ɔ</item>
+        <item>d̪ɪnɔ</item>
+        <item>säːlɔ</item>
+        <item>gɔɾɔmɔ</item>
+        <item>ʈʰɔɖe</item>
+        <item>puːɾäː</item>
+        <item>nɔʋäː</item>
+        <item>pʊɾäːɳiː</item>
+        <item>t͡ʃɔgäː</item>
+        <item>bʊɾäː</item>
+        <item>gɔd̪iː</item>
+        <item>gɔd̪e</item>
+        <item>sɪt̪◌̀äː</item>
+        <item>golɔ</item>
+        <item>t̪ed͡ʒɔ</item>
+        <item>sʊsɔt̪ɔ</item>
+        <item>nɪɾɔʋɪk◌̀ɔnɔ</item>
+        <item>p◌̀ɪd͡ʒɔ</item>
+        <item>sʊke</item>
+        <item>sɔɦiː</item>
+        <item>neɽe</item>
+        <item>d̪uːɾo</item>
+        <item>sɔd͡ʒe</item>
+        <item>kʰɔbe</item>
+        <item>t̪e</item>
+        <item>ʋɪt͡ʃɔ</item>
+        <item>d̪enäːlɔ</item>
+        <item>ət̪e</item>
+        <item>d͡ʒe</item>
+        <item>kɪʊkɪ</item>
+        <item>näːmɔ</item>
+    </string-array>
+
+    <string-array name="German">
+        <item>ɪç</item>
+        <item>duː, ziː</item>
+        <item>eːɐ̯</item>
+        <item>viːɐ̯</item>
+        <item>iːɐ̯, ziː</item>
+        <item>ziː</item>
+        <item>diːs, ˈdiːzəs</item>
+        <item>das ,ˈjeːnəs</item>
+        <item>hiːɐ̯</item>
+        <item>daː, dɔʁt</item>
+        <item>veːɐ̯</item>
+        <item>vas</item>
+        <item>voː</item>
+        <item>van</item>
+        <item>viː</item>
+        <item>nɪçt</item>
+        <item>ˈalə</item>
+        <item>ˈfiːlə</item>
+        <item>ˈaɪ̯nɪɡə</item>
+        <item>ˈveːnɪç</item>
+        <item>ˈandəʁə</item>
+        <item>aɪ̯ns</item>
+        <item>tsvaɪ̯</item>
+        <item>dʁaɪ̯</item>
+        <item>fiːɐ̯</item>
+        <item>fʏnf</item>
+        <item>ɡʁoːs</item>
+        <item>laŋ</item>
+        <item>bʁaɪ̯t, vaɪ̯t</item>
+        <item>dɪk</item>
+        <item>ʃveːɐ̯</item>
+        <item>klaɪ̯n</item>
+        <item>kʊʁts</item>
+        <item>ɛŋ</item>
+        <item>dʏn</item>
+        <item>fʁaʊ̯</item>
+        <item>man</item>
+        <item>mɛnʃ</item>
+        <item>kɪnt</item>
+        <item>fʁaʊ̯, ˈeːəfʁaʊ̯</item>
+        <item>man, ˈeːəman</item>
+        <item>ˈmʊtɐ</item>
+        <item>ˈfaːtɐ</item>
+        <item>tiːɐ̯</item>
+        <item>fɪʃ</item>
+        <item>ˈfoːgəl</item>
+        <item>hʊnt</item>
+        <item>laʊ̯s</item>
+        <item>ˈʃlaŋə</item>
+        <item>vʊʁm</item>
+        <item>baʊ̯m</item>
+        <item>valt</item>
+        <item>ʃtɔk</item>
+        <item>fʁʊxt</item>
+        <item>ˈzaːmən</item>
+        <item>blat</item>
+        <item>ˈvʊʁtsəl</item>
+        <item>ˈʁɪndə</item>
+        <item>ˈbluːmə</item>
+        <item>ɡʁaːs</item>
+        <item>zaɪ̯l</item>
+        <item>haʊ̯t</item>
+        <item>flaɪ̯ʃ</item>
+        <item>bluːt</item>
+        <item>ˈknɔxən</item>
+        <item>fɛt</item>
+        <item>aɪ̯</item>
+        <item>hɔʁn</item>
+        <item>ʃvants</item>
+        <item>ˈfeːdɐ</item>
+        <item>haːɐ̯</item>
+        <item>kɔpf</item>
+        <item>oːɐ̯</item>
+        <item>ˈaʊ̯gə</item>
+        <item>ˈnaːzə</item>
+        <item>mʊnt</item>
+        <item>tsaːn</item>
+        <item>ˈtsʊŋə</item>
+        <item>ˈfɪŋɐnaːɡəl</item>
+        <item>fuːs</item>
+        <item>baɪ̯n</item>
+        <item>kniː</item>
+        <item>hant</item>
+        <item>ˈflyːɡəl</item>
+        <item>baʊ̯x</item>
+        <item>ˈaɪ̯nɡəvaɪ̯də</item>
+        <item>hals, ˈnakən</item>
+        <item>ˈʁʏkən</item>
+        <item>bʁʊst</item>
+        <item>hɛʁts</item>
+        <item>ˈleːbɐ</item>
+        <item>ˈtʁɪŋkən</item>
+        <item>ˈɛsən</item>
+        <item>ˈbaɪ̯sən</item>
+        <item>ˈzaʊ̯gən</item>
+        <item>ˈʃpʊkən</item>
+        <item>ɛɐ̯ˈbʁɛçən</item>
+        <item>ˈblaːzən</item>
+        <item>ˈaːtmən</item>
+        <item>ˈlaxən</item>
+        <item>ˈzeːən</item>
+        <item>ˈhøːʁən</item>
+        <item>ˈvɪsən, ˈkɛnən</item>
+        <item>ˈdɛŋkən</item>
+        <item>ˈʁiːçən</item>
+        <item>ˈfʏʁçtən</item>
+        <item>ˈʃlaːfən</item>
+        <item>ˈleːbən</item>
+        <item>ˈʃtɛʁbən</item>
+        <item>ˈtøːtən</item>
+        <item>ˈkɛmpfən</item>
+        <item>ˈjaːɡən</item>
+        <item>ˈʃlaːɡən</item>
+        <item>ˈʃnaɪ̯dən</item>
+        <item>ˈʃpaltən</item>
+        <item>ˈʃtɛçən</item>
+        <item>ˈkʁatsən</item>
+        <item>ˈgʁaːbən</item>
+        <item>ˈʃvɪmən</item>
+        <item>ˈfliːɡən</item>
+        <item>ˈgeːən</item>
+        <item>ˈkɔmən</item>
+        <item>ˈliːɡən</item>
+        <item>ˈzɪtsən</item>
+        <item>ˈʃteːən</item>
+        <item>ˈdʁeːən</item>
+        <item>ˈfalən</item>
+        <item>ˈɡeːbən</item>
+        <item>ˈhaltən</item>
+        <item>ˈkvɛtʃən</item>
+        <item>ˈʁaɪ̯bən</item>
+        <item>ˈvaʃən</item>
+        <item>ˈvɪʃən</item>
+        <item>ˈtsiːən</item>
+        <item>ˈdʁʏkən</item>
+        <item>ˈvɛʁfən</item>
+        <item>ˈbɪndən</item>
+        <item>ˈnɛːən</item>
+        <item>ˈtsɛːlən</item>
+        <item>ˈzaːgən</item>
+        <item>ˈzɪŋən</item>
+        <item>ˈʃpiːlən</item>
+        <item>ˈʃveːbən</item>
+        <item>ˈfliːsən</item>
+        <item>ˈfʁiːrən</item>
+        <item>ˈʃvɛlən</item>
+        <item>ˈzɔnə</item>
+        <item>moːnt</item>
+        <item>ʃtɛʁn</item>
+        <item>ˈvasɐ</item>
+        <item>ˈʁeːgən</item>
+        <item>flʊs</item>
+        <item>zeː</item>
+        <item>meːɐ̯</item>
+        <item>zalts</item>
+        <item>ʃtaɪ̯n</item>
+        <item>zant</item>
+        <item>ʃtaʊ̯p</item>
+        <item>ˈeːɐ̯də</item>
+        <item>ˈvɔlkə</item>
+        <item>ˈneːbəl</item>
+        <item>ˈhɪməl</item>
+        <item>vɪnt</item>
+        <item>ʃneː</item>
+        <item>aɪ̯s</item>
+        <item>ʁaʊ̯x</item>
+        <item>ˈfɔʏɐ</item>
+        <item>ˈaʃə</item>
+        <item>ˈbʁɛnən</item>
+        <item>ˈʃtʁaːsə</item>
+        <item>bɛʁk</item>
+        <item>ʁoːt</item>
+        <item>gʁyːn</item>
+        <item>gɛlp</item>
+        <item>vaɪ̯s</item>
+        <item>ʃvaʁts</item>
+        <item>naxt</item>
+        <item>taːk</item>
+        <item>jaːɐ̯</item>
+        <item>vaʁm</item>
+        <item>kalt</item>
+        <item>fɔl</item>
+        <item>nɔʏ̯</item>
+        <item>alt</item>
+        <item>guːt</item>
+        <item>ʃlɛçt</item>
+        <item>faʊ̯l, fɛɐ̯ˈʁɔtət</item>
+        <item>ˈʃmʊtsɪç, ˈdʁɛkɪç</item>
+        <item>ɡəˈʁaːdə</item>
+        <item>ʁʊnt</item>
+        <item>ʃaʁf</item>
+        <item>ʃtʊmpf</item>
+        <item>ɡlat</item>
+        <item>nas, fɔʏ̯çt</item>
+        <item>ˈtʁɔkən</item>
+        <item>ˈʁɪçtɪç</item>
+        <item>ˈnaː</item>
+        <item>vaɪ̯t, fɛʁn</item>
+        <item>ʁɛçts</item>
+        <item>lɪŋks</item>
+        <item>baɪ̯, an</item>
+        <item>ɪn</item>
+        <item>mɪt</item>
+        <item>ʊnt</item>
+        <item>vɛn, ɔp</item>
+        <item>vaɪ̯l</item>
+        <item>ˈnaːmə</item>
+    </string-array>
+
+    <string-array name="Javanese">
+        <item>aku, kula, d̪alema</item>
+        <item>kowe, samapejana, panadʒenenaɡana</item>
+        <item>d̪aheweke, panadʒenenaɡanipuna</item>
+        <item>awaked̪ahewe, kawulasami</item>
+        <item>kowekabeha</item>
+        <item>d̪ahewekekabeha</item>
+        <item>iki, puniki</item>
+        <item>iku, kuwi, puniku, ika, punika</item>
+        <item>kene, riki</item>
+        <item>kono, riku, kana, rika</item>
+        <item>sapa, sinat̪ena</item>
+        <item>apa, punapa</item>
+        <item>enad̪i, punad̪i</item>
+        <item>kapana</item>
+        <item>keparije, paripuna</item>
+        <item>d̪ud̪u, ora</item>
+        <item>kabeha, sed̪aja, sed̪anat̪ena</item>
+        <item>akeha, kat̪ahaha</item>
+        <item>sawenaha</item>
+        <item>sit̪ahika, seked̪ahika</item>
+        <item>lija, sanesa</item>
+        <item>sidʒi, set̪unaɡaɡala</item>
+        <item>loro, kaliha</item>
+        <item>t̪elu, t̪iɡa</item>
+        <item>papat̪a, sekawana</item>
+        <item>lima, ɡanaɡasala</item>
+        <item>ɡed̪ahe, aɡenaɡa</item>
+        <item>d̪awa, panadʒanaɡa</item>
+        <item>amaba, dʒemabara</item>
+        <item>kanad̪ela</item>
+        <item>abot̪a, awarat̪a</item>
+        <item>tʃilika, alit̪a</item>
+        <item>tʃenad̪aheka</item>
+        <item>tʃijut̪a</item>
+        <item>t̪ipisa</item>
+        <item>wad̪ona</item>
+        <item>lananaɡa</item>
+        <item>wonaɡa, manunaɡasa</item>
+        <item>anaka, lare</item>
+        <item>bodʒo, semaha, ɡarawa</item>
+        <item>bodʒo, semaha, ɡarawa</item>
+        <item>ibu</item>
+        <item>bapa, rama</item>
+        <item>sat̪o, kewana</item>
+        <item>iwaka, ulama</item>
+        <item>manuka, pekasi</item>
+        <item>asu, seɡawona</item>
+        <item>t̪uma</item>
+        <item>ula</item>
+        <item>ulera</item>
+        <item>wit̪a</item>
+        <item>alasa, wono</item>
+        <item>panaɡa</item>
+        <item>woha</item>
+        <item>widʒi</item>
+        <item>ɡod̪ahonaɡa, rona</item>
+        <item>ojod̪a</item>
+        <item>kalika</item>
+        <item>kemabanaɡa, sekara</item>
+        <item>suket̪a</item>
+        <item>t̪ali</item>
+        <item>kulit̪a</item>
+        <item>d̪aɡinaɡa</item>
+        <item>ɡet̪iha, raha</item>
+        <item>balunaɡa</item>
+        <item>ɡadʒiha</item>
+        <item>enad̪ahoɡa, t̪iɡana</item>
+        <item>sunaɡu</item>
+        <item>bunat̪ut̪a</item>
+        <item>wulu</item>
+        <item>ramabut̪a</item>
+        <item>enad̪ahasa, siraha, musat̪aka</item>
+        <item>kupinaɡa, t̪alinaɡana</item>
+        <item>mat̪a, maripat̪a, sotʃa</item>
+        <item>irunaɡa</item>
+        <item>tʃanaɡakema</item>
+        <item>unat̪u, wadʒa</item>
+        <item>ilat̪a</item>
+        <item>kuku</item>
+        <item>sikila, suku, samaparana</item>
+        <item>sikila, suku, samaparana</item>
+        <item>d̪ahenaɡakula</item>
+        <item>t̪anaɡana, asat̪a</item>
+        <item>suwiwi</item>
+        <item>wet̪enaɡa, pad̪ahaharana</item>
+        <item></item>
+        <item>ɡulu</item>
+        <item>ɡeɡera</item>
+        <item>susu</item>
+        <item></item>
+        <item>at̪i</item>
+        <item>omabe</item>
+        <item>manaɡana</item>
+        <item>tʃokot̪a</item>
+        <item></item>
+        <item>id̪u</item>
+        <item>ut̪aha</item>
+        <item></item>
+        <item>amabeɡana</item>
+        <item>ɡuju</item>
+        <item>d̪elenaɡa</item>
+        <item>runaɡu</item>
+        <item>naɡerat̪i, mud̪ahenaɡa</item>
+        <item>mikira</item>
+        <item>amabu</item>
+        <item>wed̪i</item>
+        <item>t̪uru</item>
+        <item>uripa</item>
+        <item>mat̪i</item>
+        <item>pat̪eni</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>ket̪ahoka</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>naɡalanaɡi</item>
+        <item>mabura</item>
+        <item>malaku, malamapaha</item>
+        <item>t̪eka, rawuha</item>
+        <item>naɡapusi</item>
+        <item>lunaɡaɡuha, lenaɡaha, pinaraka</item>
+        <item>naɡad̪eka, dʒumenenaɡa</item>
+        <item></item>
+        <item>t̪iba, d̪ahawaha</item>
+        <item>weneha, parinaɡa, at̪ura</item>
+        <item>tʃekela, tʃepenaɡa, asat̪a</item>
+        <item></item>
+        <item></item>
+        <item>umabaha</item>
+        <item></item>
+        <item>t̪arika</item>
+        <item>surunaɡa</item>
+        <item>balanaɡa, sawat̪a</item>
+        <item></item>
+        <item>d̪onad̪oma</item>
+        <item></item>
+        <item></item>
+        <item>kanasijona</item>
+        <item>ɡajama</item>
+        <item>kamabanaɡa</item>
+        <item>aɡi</item>
+        <item>t̪aɡaɡa, jelo</item>
+        <item>lapapaka</item>
+        <item>bilaka</item>
+        <item>ulana</item>
+        <item>bit̪una</item>
+        <item>d̪anuma</item>
+        <item>urana</item>
+        <item>bananaɡa</item>
+        <item>sit̪u, t̪alaɡa</item>
+        <item>laut̪a, saɡara</item>
+        <item>asina</item>
+        <item>bat̪u</item>
+        <item>d̪aɡa</item>
+        <item>ɡau</item>
+        <item>d̪auna</item>
+        <item>kunama</item>
+        <item></item>
+        <item>lanaɡi</item>
+        <item>pad̪ad̪aka</item>
+        <item>niebe</item>
+        <item>jelo</item>
+        <item>at̪u</item>
+        <item>auja, ai</item>
+        <item>au</item>
+        <item>t̪uɡaɡi</item>
+        <item>d̪alana</item>
+        <item>ukika</item>
+        <item>uina</item>
+        <item>berad̪e</item>
+        <item>naɡila</item>
+        <item>urawa</item>
+        <item>naɡisi</item>
+        <item>ɡabi</item>
+        <item>aɡaɡawa</item>
+        <item>d̪aɡuna, raɡuna</item>
+        <item>pat̪u</item>
+        <item>lamamina, lumaja</item>
+        <item>pananu</item>
+        <item>baɡu</item>
+        <item>d̪ana</item>
+        <item>masipapo, mapia</item>
+        <item>marakaja</item>
+        <item>bad̪aju</item>
+        <item>nad̪apinaɡa</item>
+        <item>d̪eretʃaho</item>
+        <item>buleud̪a, bunad̪era</item>
+        <item>nat̪arama</item>
+        <item>nanaɡurala</item>
+        <item>nad̪alu</item>
+        <item>nabasa</item>
+        <item>namaɡa</item>
+        <item>kuruka, usat̪u</item>
+        <item>aranani</item>
+        <item>arajaju</item>
+        <item>iwanana</item>
+        <item>imiɡi</item>
+        <item>kana</item>
+        <item>kana</item>
+        <item>anana, kauluna, konasu</item>
+        <item>anana</item>
+        <item>nu</item>
+        <item>nakawat̪a, ɡaraja</item>
+        <item>naɡaɡana</item>
+    </string-array>
+
+    <string-array name="Wu">
+    </string-array>
+
+    <string-array name="Malay">
+        <item>aku, saja</item>
+        <item>enaɡakau, kamu, awaka, anad̪a</item>
+        <item>d̪ia, ia</item>
+        <item>kit̪a, kami</item>
+        <item>kaliana</item>
+        <item>mereka</item>
+        <item>ini</item>
+        <item>it̪u</item>
+        <item>sini</item>
+        <item>sana, sit̪u</item>
+        <item>siapa</item>
+        <item>apa</item>
+        <item>mana</item>
+        <item>bila, apabila, kapana</item>
+        <item>baɡaimana</item>
+        <item>bukana, t̪id̪aka</item>
+        <item>semua</item>
+        <item>banajaka</item>
+        <item>beberapa</item>
+        <item>sed̪ikit̪a</item>
+        <item>laina</item>
+        <item>sat̪u, esa</item>
+        <item>d̪ua</item>
+        <item>t̪iɡa, t̪elu</item>
+        <item>emapat̪a</item>
+        <item>lima, d̪elima</item>
+        <item>besara, raja</item>
+        <item>panadʒanaɡa</item>
+        <item>lebara, luasa, lapanaɡa</item>
+        <item>t̪ebala</item>
+        <item>berat̪a</item>
+        <item>ketʃila</item>
+        <item>penad̪eka</item>
+        <item>semapit̪a</item>
+        <item>t̪ipisa, nipisa</item>
+        <item>peremapuana</item>
+        <item>lelaki</item>
+        <item>oranaɡa, manusia</item>
+        <item>anaka, kanaka</item>
+        <item>isat̪eri</item>
+        <item>suami</item>
+        <item>ibu, emaka</item>
+        <item>bapa, ajaha</item>
+        <item>binat̪anaɡa, haiwana</item>
+        <item>ikana</item>
+        <item>burunaɡa</item>
+        <item>anadʒinaɡa, asu, kujuka</item>
+        <item>kut̪u</item>
+        <item>ulara</item>
+        <item>ulat̪a</item>
+        <item>pokoka, pohona, kaju</item>
+        <item>hut̪ana</item>
+        <item>kaju, bat̪anaɡa, t̪onaɡakat̪a</item>
+        <item>buaha</item>
+        <item>beniha, bidʒi</item>
+        <item>d̪auna</item>
+        <item>akara</item>
+        <item>kulit̪akaju</item>
+        <item>bunaɡa</item>
+        <item>rumaput̪a</item>
+        <item>t̪ali</item>
+        <item>kulit̪a</item>
+        <item>d̪aɡinaɡa</item>
+        <item>d̪araha</item>
+        <item>t̪ulanaɡa</item>
+        <item>lemaka, minajaka</item>
+        <item>t̪elura</item>
+        <item>t̪anad̪uka</item>
+        <item>ekora</item>
+        <item>bulu</item>
+        <item>ramabut̪a, bulu</item>
+        <item>kepala, hulu</item>
+        <item>t̪elinaɡa</item>
+        <item>mat̪a</item>
+        <item>hid̪unaɡa</item>
+        <item>mulut̪a</item>
+        <item>ɡiɡi</item>
+        <item>lid̪aha</item>
+        <item>kuku</item>
+        <item>kaki</item>
+        <item>t̪unaɡakai</item>
+        <item>lut̪ut̪a</item>
+        <item>t̪anaɡana</item>
+        <item>kepaka, sajapa</item>
+        <item>perut̪a</item>
+        <item>ususa</item>
+        <item>lehera</item>
+        <item>punaɡaɡunaɡa</item>
+        <item>susu, pajud̪ara, buahad̪ad̪a</item>
+        <item>dʒanat̪unaɡa</item>
+        <item>hat̪i</item>
+        <item>minuma</item>
+        <item>makana</item>
+        <item>ɡiɡit̪a</item>
+        <item>hisapa</item>
+        <item>lud̪aha</item>
+        <item>munat̪aha</item>
+        <item>t̪iupa, hemabusa</item>
+        <item>hirupa, naasa</item>
+        <item>t̪awa, ket̪awa</item>
+        <item>lihat̪a, namapaka, t̪enaɡoka</item>
+        <item>d̪enaɡara</item>
+        <item>t̪ahu</item>
+        <item>ikira, rasa</item>
+        <item>hid̪u, tʃiuma, bau</item>
+        <item>t̪akut̪a</item>
+        <item>t̪id̪ura</item>
+        <item>hid̪upa</item>
+        <item>mat̪i</item>
+        <item>bunuha</item>
+        <item>lawana, ɡad̪uha, t̪arunaɡa, kelahi, dʒuanaɡa</item>
+        <item>buru</item>
+        <item>pukula, ket̪uka</item>
+        <item>pot̪onaɡa</item>
+        <item>belaha, pisaha, bahaɡi</item>
+        <item>t̪ikama</item>
+        <item>ɡaru, tʃakara, ɡoresa</item>
+        <item>koreka, ɡali</item>
+        <item>renanaɡa</item>
+        <item>t̪erabanaɡa</item>
+        <item>dʒalana</item>
+        <item>d̪at̪anaɡa</item>
+        <item>barinaɡa, benat̪anaɡa</item>
+        <item>d̪ud̪uka</item>
+        <item>d̪iri</item>
+        <item>beloka, pusinaɡa</item>
+        <item>dʒat̪uha</item>
+        <item>beri, baɡi</item>
+        <item>peɡanaɡa</item>
+        <item>perasa</item>
+        <item>ɡosoka, sapu</item>
+        <item>basuha, tʃutʃi</item>
+        <item>sapu, lapa</item>
+        <item>t̪arika</item>
+        <item>t̪olaka</item>
+        <item>balinaɡa, tʃamapaka, lemapara</item>
+        <item>ikat̪a</item>
+        <item>dʒahit̪a</item>
+        <item>kira, bilanaɡa, hit̪unaɡa</item>
+        <item>kat̪a</item>
+        <item>najanaji</item>
+        <item>maina</item>
+        <item>apunaɡa</item>
+        <item>alira, alura, salira, salira</item>
+        <item>beku</item>
+        <item>benaɡakaka</item>
+        <item>mat̪ahari</item>
+        <item>bulana</item>
+        <item>binat̪anaɡa</item>
+        <item>aira, t̪irat̪a</item>
+        <item>hudʒana</item>
+        <item>sunaɡai, bat̪anaɡa, sei</item>
+        <item>d̪anau, t̪asika</item>
+        <item>laut̪a</item>
+        <item>ɡarama, masina</item>
+        <item>bat̪u</item>
+        <item>pasira</item>
+        <item>d̪ebu, habuka</item>
+        <item>d̪arat̪a, t̪anaha</item>
+        <item>awana</item>
+        <item>kabusa, kabut̪a</item>
+        <item>lanaɡit̪a</item>
+        <item>anaɡina, baju</item>
+        <item>saladʒi, saladʒu</item>
+        <item>aisa, esa</item>
+        <item>asapa</item>
+        <item>api</item>
+        <item>d̪ebu, abu</item>
+        <item>bakara</item>
+        <item>dʒalana</item>
+        <item>ɡununaɡa</item>
+        <item>meraha</item>
+        <item>hidʒau</item>
+        <item>kuninaɡa</item>
+        <item>put̪iha</item>
+        <item>hit̪ama</item>
+        <item>malama</item>
+        <item>sianaɡa</item>
+        <item>t̪ahuna</item>
+        <item>panasa, hanaɡat̪a, suama</item>
+        <item>sedʒuka, d̪inaɡina</item>
+        <item>penuha</item>
+        <item>baharu</item>
+        <item>lama</item>
+        <item>baɡusa, baika</item>
+        <item>buruka, dʒahat̪a, t̪eruka</item>
+        <item>reput̪a, busuka</item>
+        <item>kot̪ora</item>
+        <item>t̪erusa, lurusa</item>
+        <item>bulat̪a, bunad̪ara</item>
+        <item>t̪adʒama</item>
+        <item>t̪umapula</item>
+        <item>litʃina, mulusa</item>
+        <item>basaha</item>
+        <item>kerinaɡa</item>
+        <item>bet̪ula, benara</item>
+        <item>d̪ekat̪a, hamapira</item>
+        <item>dʒauha</item>
+        <item>kanana</item>
+        <item>kiri</item>
+        <item>d̪i</item>
+        <item>d̪i, d̪id̪alama, d̪alama</item>
+        <item>d̪enaɡana, berasama</item>
+        <item>d̪ana, serat̪a</item>
+        <item>dʒika, apabila, kalau</item>
+        <item>sebaba, kerana, karena</item>
+        <item>nama</item>
+    </string-array>
+
+    <string-array name="Telugu">
+        <item>neːnu</item>
+        <item>nuʋʋu, niːʋu</item>
+        <item>ataɖu, atanuʋaːɖuʋaːru</item>
+        <item>meːmumanamu</item>
+        <item>miːrutamaru</item>
+        <item>ʋaːɭɭuaʋi</item>
+        <item>idi</item>
+        <item>adi</item>
+        <item>ikkaɖaitʃtʃaʈaiːɖa</item>
+        <item>akkaɖaatʃtʃaʈaaːɖa</item>
+        <item>eʋaru</item>
+        <item>eːmiʈieːmʈi</item>
+        <item>ekkaɖaetʃtʃaʈaeːɖa</item>
+        <item>eppuɖu</item>
+        <item>elaː, eʈlaː</item>
+        <item>kaːdu, leːdu</item>
+        <item>amdaru, anniː, mottamu</item>
+        <item>tʃaːlaː</item>
+        <item>komdaru, konni, komta</item>
+        <item>konni</item>
+        <item>ʋeːreːitara</item>
+        <item>okaʈi</item>
+        <item>remɖu</item>
+        <item>muːɖu</item>
+        <item>naːluɡu</item>
+        <item>ajdu</item>
+        <item>pedda</item>
+        <item>poɖaʋajna</item>
+        <item>ʋeɖalpajna</item>
+        <item>mamdamajna, tʃikkani</item>
+        <item>baruʋajna</item>
+        <item>tʃinna</item>
+        <item>poʈʈi</item>
+        <item>irukajna, sannani</item>
+        <item>sannani, palutʃani</item>
+        <item>aːɖadi, striː, mahiɭa</item>
+        <item>maɡaʋaːɖu, puruʂuɖu</item>
+        <item>maniʂi</item>
+        <item>pilla, pillaʋaːɖu</item>
+        <item>peɭɭaːm, bʱaːrja, aːli</item>
+        <item>moɡuɖu, bʱarta, penimiʈi</item>
+        <item>amma, talli</item>
+        <item>naːnna, tamɖri</item>
+        <item>dʒamtuʋu</item>
+        <item>tʃeːpa</item>
+        <item>pakʂi, piʈʈa</item>
+        <item>kukka</item>
+        <item>peːnu</item>
+        <item>paːmu</item>
+        <item>puruɡu</item>
+        <item>tʃeʈʈu</item>
+        <item>aɖaʋi</item>
+        <item>karra, kaʈʈe</item>
+        <item>pamɖu, pʰalamu</item>
+        <item>ʋittanam</item>
+        <item>aːku</item>
+        <item>ʋeːru</item>
+        <item>beraɖu</item>
+        <item>puʋʋu, puʂpamu</item>
+        <item>ɡaɖɖi</item>
+        <item>taːɖu, moːku</item>
+        <item>toːlu, tʃarmamu</item>
+        <item>maːmsam</item>
+        <item>raktamu, netturu</item>
+        <item>emuka, bomike, bokka</item>
+        <item>koʋʋu</item>
+        <item>ɡuɖɖu</item>
+        <item>kommu</item>
+        <item>toːka</item>
+        <item>iːka</item>
+        <item>ʋemʈrukalu, dʒuʈʈu</item>
+        <item>tala</item>
+        <item>tʃeʋi</item>
+        <item>kannu, neːtram</item>
+        <item>mukku</item>
+        <item>noːru, muːti</item>
+        <item>pannu</item>
+        <item>naːluka</item>
+        <item>ɡoːru</item>
+        <item>paːdamu, aɖuɡu</item>
+        <item>kaːlu</item>
+        <item>moːkaːlu</item>
+        <item>tʃejji, tʃeːji</item>
+        <item>rekka</item>
+        <item>poʈʈa, kaɖupu</item>
+        <item>peːɡulu</item>
+        <item>meɖa, kamʈʰam</item>
+        <item>ʋiːpu, ʋennu</item>
+        <item>tʃannu, stanamu</item>
+        <item>ɡumɖe</item>
+        <item>kaːleːjam</item>
+        <item>taːɡu</item>
+        <item>tinu</item>
+        <item>koruku, karatʃu</item>
+        <item>tʃiːku</item>
+        <item>ummu</item>
+        <item>kakku</item>
+        <item>uːdu, ʋiːtʃu</item>
+        <item>uːpiripiːltʃu</item>
+        <item>naʋʋu</item>
+        <item>tʃuːtʃu</item>
+        <item>ʋinu</item>
+        <item>telusukonu, eruɡu</item>
+        <item>aːloːtʃimtʃu</item>
+        <item>ʋaːsanatʃuːtʃu, muːtʃtʃuːtʃu</item>
+        <item>beduru, bʱajapaɖu</item>
+        <item>kunuku, tuːɡu, nidrapoːʋu</item>
+        <item>batuku</item>
+        <item>tʃatʃtʃu</item>
+        <item>tʃampu</item>
+        <item>poːraːɖu</item>
+        <item>ʋeːʈaːɖu</item>
+        <item>koʈʈu</item>
+        <item>koːju</item>
+        <item>tʃiːltʃu</item>
+        <item>poɖutʃu, kutʃtʃu, </item>
+        <item>ɡiːru</item>
+        <item>taʋʋu</item>
+        <item>iːdu</item>
+        <item>eɡuru, eɡaraʋeːju</item>
+        <item>naɖutʃu</item>
+        <item>ʋatʃtʃu</item>
+        <item>paɖukonu</item>
+        <item>kuːrtʃonu</item>
+        <item>nilutʃonu, nilabaɖu</item>
+        <item>tippu, tiruɡu</item>
+        <item>paɖu</item>
+        <item>itʃtʃu</item>
+        <item>paʈʈukonu</item>
+        <item>pisuku</item>
+        <item>ruddu</item>
+        <item>kaɖuɡu</item>
+        <item>tuɖutʃu</item>
+        <item>laːɡu</item>
+        <item>neʈʈu, toːju</item>
+        <item>ʋisuru</item>
+        <item>kaʈʈu</item>
+        <item>kuʈʈu</item>
+        <item>lekkimtʃu</item>
+        <item>tʃeppu</item>
+        <item>paːɖu</item>
+        <item>aːɖu</item>
+        <item>teːlu</item>
+        <item>paːru</item>
+        <item>ɡaɖɖakaʈʈu</item>
+        <item>ʋaːtʃu</item>
+        <item>suːrjuɖu, poddu</item>
+        <item>tʃamdruɖu, tʃamdamaːma, nelaʋeːlpu</item>
+        <item>nakʂatram, taːra, tʃukka</item>
+        <item>niːru</item>
+        <item>kuriju, ʋarʂimtʃu</item>
+        <item>nadi</item>
+        <item>sarassu</item>
+        <item>samudramkaɖali</item>
+        <item>uppu</item>
+        <item>raːji</item>
+        <item>isuka</item>
+        <item>dummu</item>
+        <item>mannu, maʈʈi, neːla</item>
+        <item>mabbu</item>
+        <item>poɡamamtʃu</item>
+        <item>nimɡi, aːkaːʃamɡaːli</item>
+        <item>ɡaːli</item>
+        <item>mamtʃu</item>
+        <item>ɡaɖɖamamtʃu</item>
+        <item>poɡa</item>
+        <item>mamʈa, nippu</item>
+        <item>buːɖida</item>
+        <item>kaːlu, mamɖu</item>
+        <item>baːʈa</item>
+        <item>komɖa</item>
+        <item>erra</item>
+        <item>patʃtʃa</item>
+        <item>pasupu</item>
+        <item>tella</item>
+        <item>nalla, karri</item>
+        <item>reːji, raːtri, maːpu</item>
+        <item>paɡalu</item>
+        <item>jeːɖu, jeːɖaːdi, samʋatsaram</item>
+        <item>ʋetʃtʃani</item>
+        <item>tʃallani</item>
+        <item>nimɖu</item>
+        <item>kotta</item>
+        <item>paːta</item>
+        <item>mamtʃi</item>
+        <item>tʃeɖɖa</item>
+        <item>kuɭɭina, tʃeɖina</item>
+        <item>murikajna</item>
+        <item>neːru</item>
+        <item>ɡumɖrani</item>
+        <item>padunajna</item>
+        <item>momɖi, moddajna</item>
+        <item>nunnani</item>
+        <item>taɖi</item>
+        <item>poɖi, emɖu</item>
+        <item>sarajna</item>
+        <item>daɡɡara</item>
+        <item>duːram</item>
+        <item>kuɖi</item>
+        <item>eɖama</item>
+        <item>ʋadda, ʋajpu</item>
+        <item>loː</item>
+        <item>toː</item>
+        <item>mariju</item>
+        <item>iteː</item>
+        <item>ʋalla, emdukamʈeː</item>
+        <item>peːru</item>
+    </string-array>
+
+    <string-array name="Vietnamese">
+    </string-array>
+
+    <string-array name="Korean">
+    </string-array>
+
+    <string-array name="French">
+        <item>ʒə</item>
+        <item>ty, vu</item>
+        <item>il</item>
+        <item>nu</item>
+        <item>vu</item>
+        <item>il</item>
+        <item>səsi</item>
+        <item>səla</item>
+        <item>isi</item>
+        <item>la</item>
+        <item>ki</item>
+        <item>kwa</item>
+        <item>u</item>
+        <item>kã</item>
+        <item>kɔmã</item>
+        <item>nə'pɑ</item>
+        <item>tu</item>
+        <item>boku</item>
+        <item>kɛlk</item>
+        <item>pø</item>
+        <item>otʁ</item>
+        <item>œ̃</item>
+        <item>dø</item>
+        <item>tʁwɑ</item>
+        <item>katʁ</item>
+        <item>sɛ̃k</item>
+        <item>ɡʁã</item>
+        <item>lõ</item>
+        <item>laʁʒ</item>
+        <item>epɛ</item>
+        <item>luʁ</item>
+        <item>pəti</item>
+        <item>kuʁ</item>
+        <item>etʁwa</item>
+        <item>mɛ̃s</item>
+        <item>fam</item>
+        <item>ɔm</item>
+        <item>ɔm</item>
+        <item>ɑ̃fɑ̃</item>
+        <item>fam, epuz</item>
+        <item>maʁi, epu</item>
+        <item>mɛʁ</item>
+        <item>pɛʁ</item>
+        <item>animal</item>
+        <item>pwasõ</item>
+        <item>wazo</item>
+        <item>ʃjɛ̃</item>
+        <item>pu</item>
+        <item>sɛʁpɑ̃</item>
+        <item>vɛʁ</item>
+        <item>aʁbʁ</item>
+        <item>fɔʁɛ</item>
+        <item>bɑtɔ̃</item>
+        <item>fʁɥi</item>
+        <item>ɡʁɛn</item>
+        <item>fœj</item>
+        <item>ʁasin</item>
+        <item>ekɔʁs</item>
+        <item>flœʁ</item>
+        <item>ɛʁb</item>
+        <item>kɔʁd</item>
+        <item>po</item>
+        <item>vjɑ̃d</item>
+        <item>sɑ̃</item>
+        <item>ɔs</item>
+        <item>ɡʁɛs</item>
+        <item>œf</item>
+        <item>kɔʁn</item>
+        <item>kø</item>
+        <item>plym</item>
+        <item>ʃəvø</item>
+        <item>tɛt</item>
+        <item>ɔʁɛj</item>
+        <item>œj</item>
+        <item>ne</item>
+        <item>buʃ</item>
+        <item>dɑ̃</item>
+        <item>lɑ̃ɡ</item>
+        <item>ɔ̃ɡl</item>
+        <item>pje</item>
+        <item>ʒɑ̃b</item>
+        <item>ʒənu</item>
+        <item>mɛ̃</item>
+        <item>ɛl</item>
+        <item>vɑ̃tʁ</item>
+        <item>ɑ̃tʁɑj, ɛ̃tɛstɛ̃</item>
+        <item>ku</item>
+        <item>do</item>
+        <item>pwatʁin</item>
+        <item>kœʁ</item>
+        <item>fwɑ</item>
+        <item>bwɑʁ</item>
+        <item>mɑ̃ʒe</item>
+        <item>mɔʁdʁ</item>
+        <item>syse</item>
+        <item>kʁaʃe</item>
+        <item>vɔmiʁ</item>
+        <item>sufle</item>
+        <item>ʁɛspiʁe</item>
+        <item>ʁiʁ</item>
+        <item>vwaʁ</item>
+        <item>ɑ̃tɑ̃dʁ</item>
+        <item>savwaʁ</item>
+        <item>pɑ̃se</item>
+        <item>sɑ̃tiʁ</item>
+        <item>kʁɛ̃dʁ</item>
+        <item>dɔʁmiʁ</item>
+        <item>vivʁ</item>
+        <item>muʁiʁ</item>
+        <item>tɥe</item>
+        <item>səbatʁ</item>
+        <item>ʃase</item>
+        <item>fʁape</item>
+        <item>kupe</item>
+        <item>fɑ̃dʁ</item>
+        <item>pwaɲaʁde</item>
+        <item>ɡʁate</item>
+        <item>kʁøze</item>
+        <item>naʒe</item>
+        <item>vɔle</item>
+        <item>maʁʃe</item>
+        <item>vəniʁ</item>
+        <item>setɑ̃dʁ, ɛtʁetɑ̃dy</item>
+        <item>saswaʁ, ɛtʁasi</item>
+        <item>sələve, sətəniʁdəbu</item>
+        <item>tuʁne</item>
+        <item>tɔ̃be</item>
+        <item>dɔne</item>
+        <item>təniʁ</item>
+        <item>seʁe</item>
+        <item>fʁɔte</item>
+        <item>lave</item>
+        <item>esɥije</item>
+        <item>tiʁe</item>
+        <item>puse</item>
+        <item>ʒəte, lɑ̃se</item>
+        <item>lje</item>
+        <item>kudʁ</item>
+        <item>kɔ̃te</item>
+        <item>diʁ</item>
+        <item>ʃɑ̃te</item>
+        <item>ʒwe</item>
+        <item>flɔte</item>
+        <item>kule</item>
+        <item>ʒəle</item>
+        <item>ɡɔ̃fle</item>
+        <item>sɔlɛj</item>
+        <item>lyn</item>
+        <item>etwal</item>
+        <item>o</item>
+        <item>plɥi</item>
+        <item>ʁivjɛʁ</item>
+        <item>lak</item>
+        <item>mɛʁ</item>
+        <item>sɛl</item>
+        <item>pjɛʁ</item>
+        <item>sabl</item>
+        <item>pusjɛʁ</item>
+        <item>tɛʁ</item>
+        <item>nɥaʒ</item>
+        <item>bʁujaʁ</item>
+        <item>sjɛl</item>
+        <item>vɑ̃</item>
+        <item>nɛʒ</item>
+        <item>ɡlas</item>
+        <item>fyme</item>
+        <item>fø</item>
+        <item>sɑ̃dʁ</item>
+        <item>bʁyle</item>
+        <item>ʁut</item>
+        <item>mɔ̃taɲ</item>
+        <item>ʁuʒ</item>
+        <item>vɛʁ</item>
+        <item>ʒon</item>
+        <item>blɑ̃</item>
+        <item>nwaʁ</item>
+        <item>nɥi</item>
+        <item>ʒuʁ</item>
+        <item>ɑ̃, ane</item>
+        <item>ʃo</item>
+        <item>fʁwa</item>
+        <item>plɛ̃</item>
+        <item>nuvo</item>
+        <item>vjø</item>
+        <item>bɔ̃</item>
+        <item>movɛ</item>
+        <item>puri</item>
+        <item>sal</item>
+        <item>dʁwa</item>
+        <item>ʁɔ̃</item>
+        <item>tʁɑ̃ʃɑ̃</item>
+        <item>emuse</item>
+        <item>lis</item>
+        <item>muje</item>
+        <item>sɛk</item>
+        <item>ʒyst</item>
+        <item>pʁɛ</item>
+        <item>lwɛ̃</item>
+        <item>dʁwat</item>
+        <item>ɡoʃ</item>
+        <item>a</item>
+        <item>dɑ̃</item>
+        <item>avɛk</item>
+        <item>e</item>
+        <item>si</item>
+        <item>paʁsəkə</item>
+        <item>nɔ̃</item>
+    </string-array>
+
+    <string-array name="Marathi">
+    </string-array>
+
+    <string-array name="Tamil">
+        <item>n̪ɑːn</item>
+        <item>n̪iː</item>
+        <item>ʌʋʌn</item>
+        <item>n̪ɑːm, n̪ɑːŋkʌɭ</item>
+        <item>n̪iːŋkʌɭ</item>
+        <item>ʌʋʌɾkʌɭ</item>
+        <item>iðu</item>
+        <item>ʌðu</item>
+        <item>iŋkeː</item>
+        <item>ʌŋkeː</item>
+        <item>jɑːɾ</item>
+        <item>ennʌ</item>
+        <item>eŋkeː</item>
+        <item>eppoɻuðu</item>
+        <item>eppʌʈi</item>
+        <item>illʌj</item>
+        <item>ellɑːm</item>
+        <item>pʌlʌ</item>
+        <item>t͡ʃilʌ</item>
+        <item>koɲt͡ʃʌm</item>
+        <item>mʌrrʌ</item>
+        <item>onru</item>
+        <item>iɾʌɳʈu</item>
+        <item>muːnru</item>
+        <item>n̪ɑːnku</item>
+        <item>ʌjn̪ðu</item>
+        <item>peɾijʌ</item>
+        <item>n̪iːɭʌmɑːnʌ</item>
+        <item>ʌkʌlʌmɑːnʌ</item>
+        <item>ðʌʈiððʌ</item>
+        <item>kʌɳʌm</item>
+        <item>t͡ʃinnʌ</item>
+        <item>kuʈʈʌj</item>
+        <item>kurukijʌ</item>
+        <item>olli</item>
+        <item>peɳ</item>
+        <item>ɑːɳ</item>
+        <item>mʌniðʌn</item>
+        <item>kuɻʌn̪ðʌj, piɭɭʌj</item>
+        <item>mʌnʌjʋi</item>
+        <item>kʌɳʌʋʌn</item>
+        <item>ʌmmɑː</item>
+        <item>ʌppɑː, ðʌn̪ðʌj</item>
+        <item>ʋilʌŋku, miɾukʌm</item>
+        <item>miːn</item>
+        <item>pʌrʌʋʌj</item>
+        <item>n̪ɑːj</item>
+        <item>peːn</item>
+        <item>pɑːmpu, n̪ɑːkʌm</item>
+        <item>puɻu</item>
+        <item>mʌɾʌm</item>
+        <item>kɑːʈu</item>
+        <item>kut͡ʃt͡ʃi</item>
+        <item>pʌɻʌm</item>
+        <item>ʋiðʌj</item>
+        <item>ilʌj</item>
+        <item>ʋeːɾ</item>
+        <item>pʌʈʈʌj</item>
+        <item>puː, mʌlʌɾ</item>
+        <item>pul</item>
+        <item>kʌjiru</item>
+        <item>ðoːl</item>
+        <item>kʌri</item>
+        <item>kuɾuði</item>
+        <item>elumpu</item>
+        <item>koɻuppu</item>
+        <item>muʈʈʌj</item>
+        <item>kompu</item>
+        <item>ʋɑːl</item>
+        <item>irʌku</item>
+        <item>muʈi</item>
+        <item>ðʌlʌj</item>
+        <item>kɑːðu</item>
+        <item>kʌɳ</item>
+        <item>muːkku</item>
+        <item>ʋɑːj</item>
+        <item>pʌl</item>
+        <item>n̪ɑːkku</item>
+        <item>n̪ʌkʌm</item>
+        <item>ʌʈi, pɑːðʌm</item>
+        <item>kɑːl</item>
+        <item>muːʈʈu</item>
+        <item>kʌj</item>
+        <item>irʌkkʌj</item>
+        <item>ðon̪ði</item>
+        <item>kuʈʌl</item>
+        <item>kʌɻuððu</item>
+        <item>muðuku</item>
+        <item>mɑːɾpu</item>
+        <item>uɭɭʌm</item>
+        <item>iːɾʌl</item>
+        <item>kuʈi</item>
+        <item>uɳ</item>
+        <item>kʌʈi</item>
+        <item>uriɲt͡ʃu</item>
+        <item>ðuppu</item>
+        <item>kʌkku</item>
+        <item>uːðu</item>
+        <item>muːt͡ʃt͡ʃuʋiʈu</item>
+        <item>t͡ʃiɾi</item>
+        <item>kɑːɳ</item>
+        <item>keːɭ</item>
+        <item>ʌri</item>
+        <item>n̪inʌj</item>
+        <item>n̪ukʌɾ</item>
+        <item>ʌɲt͡ʃu</item>
+        <item>ðuːŋku</item>
+        <item>ʋɑːɻ</item>
+        <item>t͡ʃɑː</item>
+        <item>kol</item>
+        <item>t͡ʃʌɳʈʌjppoːʈu</item>
+        <item>ʋeːʈʈʌjjɑːʈu</item>
+        <item>ʌʈi, ðɑːkku</item>
+        <item>ʋeʈʈu</item>
+        <item>piɭʌ</item>
+        <item>kuððu</item>
+        <item>t͡ʃoɾi</item>
+        <item>ðoːɳʈu</item>
+        <item>n̪iːn̪ðu</item>
+        <item>pʌrʌ</item>
+        <item>n̪ʌʈʌ</item>
+        <item>ʋɑː</item>
+        <item>kiʈʌ</item>
+        <item>uʈkɑːɾ</item>
+        <item>n̪il</item>
+        <item>ðiɾumpu</item>
+        <item>ʋiɻu</item>
+        <item>ðɑː</item>
+        <item>koɭ, piʈi</item>
+        <item>kʌt͡ʃʌkku</item>
+        <item>ðeːj</item>
+        <item>kʌɻuʋu</item>
+        <item>ðuʈʌj</item>
+        <item>iɻu</item>
+        <item>ðʌɭɭu</item>
+        <item>ʋiːt͡ʃu</item>
+        <item>kʌʈʈu</item>
+        <item>ðʌj</item>
+        <item>eɳ</item>
+        <item>t͡ʃol</item>
+        <item>pɑːʈu</item>
+        <item>ʋiɭʌjjɑːʈu</item>
+        <item>miðʌ</item>
+        <item>oɻuku</item>
+        <item>urʌj</item>
+        <item>ʋiːŋku</item>
+        <item>ɲɑːjiru</item>
+        <item>n̪ilɑː</item>
+        <item>ʋiɳmiːn</item>
+        <item>n̪iːɾ</item>
+        <item>poɻi</item>
+        <item>ɑːru</item>
+        <item>eɾi</item>
+        <item>kʌʈʌl</item>
+        <item>uppu</item>
+        <item>kʌl</item>
+        <item>mʌɳʌl</item>
+        <item>puɻuði, ðuːt͡ʃi</item>
+        <item>mʌɳ</item>
+        <item>meːkʌm</item>
+        <item>pʌni</item>
+        <item>ʋɑːnʌm</item>
+        <item>kɑːrru</item>
+        <item>pʌni</item>
+        <item>pʌnikkʌʈʈi</item>
+        <item>pukʌj</item>
+        <item>ðiː</item>
+        <item>t͡ʃɑːmpʌl</item>
+        <item>eɾi</item>
+        <item>t͡ʃɑːlʌj</item>
+        <item>mʌlʌj</item>
+        <item>t͡ʃiʋʌppu</item>
+        <item>pʌt͡ʃt͡ʃʌj</item>
+        <item>mʌɲt͡ʃʌɭ</item>
+        <item>ʋeɭɭʌj</item>
+        <item>kʌɾuppu</item>
+        <item>iɾʌʋu</item>
+        <item>pʌkʌl</item>
+        <item>ɑːɳʈu</item>
+        <item>ʋeðuʋeðuppu</item>
+        <item>kuɭiɾt͡ʃt͡ʃi</item>
+        <item>muɻu</item>
+        <item>puðu</item>
+        <item>pʌɻʌjjʌ</item>
+        <item>n̪ʌllʌ</item>
+        <item>keʈʈʌ</item>
+        <item>ʌɻukijʌ</item>
+        <item>ʌɻukkɑːnʌ</item>
+        <item>n̪eːɾ</item>
+        <item>uɾuɳʈʌ</item>
+        <item>kuːɾmʌj</item>
+        <item>mʌɻuŋkijʌ</item>
+        <item>ʋʌɻuʋʌɻuppu</item>
+        <item>iːɾʌmɑːnʌ</item>
+        <item>ulʌɾn̪ðʌ</item>
+        <item>t͡ʃʌɾi</item>
+        <item>ʌɾukil, kiʈʈʌ</item>
+        <item>ðolʌjʋu</item>
+        <item>ʋʌlʌðu</item>
+        <item>iʈʌðu</item>
+        <item>il</item>
+        <item>il</item>
+        <item>uʈʌn, oːʈu</item>
+        <item>um, mʌrrum, meːlum</item>
+        <item>ʌɭ</item>
+        <item>eːnenrɑːl</item>
+        <item>pejʌɾ</item>
+    </string-array>
+
+    <string-array name="Urdu">
+    </string-array>
+
+    <string-array name="Turkish">
+    </string-array>
+
+    <string-array name="Italian">
+        <item>ˈiːo</item>
+        <item>tu</item>
+        <item>ˈeʎʎi,ˈluːi</item>
+        <item>ˈnoːi</item>
+        <item>ˈvoːi</item>
+        <item>ˈloːro</item>
+        <item>ˈkwesto</item>
+        <item>ˈkwello</item>
+        <item>kwi,kwa</item>
+        <item>la</item>
+        <item>ki</item>
+        <item>ke</item>
+        <item>ˈdoːve</item>
+        <item>ˈkwando</item>
+        <item>ˈkoːme</item>
+        <item>non</item>
+        <item>ˈtutto</item>
+        <item>ˈmolti,ˈtanti</item>
+        <item>alˈkuːni,ˈkwalke</item>
+        <item>ˈpɔːko</item>
+        <item>ˈaltro</item>
+        <item>ˈuːno</item>
+        <item>ˈduːe</item>
+        <item>tre</item>
+        <item>ˈkwattro</item>
+        <item>ˈt͡ʃiŋkwe</item>
+        <item>ˈɡrande</item>
+        <item>ˈluŋɡo</item>
+        <item>ˈlarɡo</item>
+        <item>ˈspesso</item>
+        <item>peˈsante</item>
+        <item>ˈpikkolo</item>
+        <item>ˈkorto</item>
+        <item>ˈstretto</item>
+        <item>sotˈtiːle</item>
+        <item>ˈdɔnna</item>
+        <item>ˈwɔːmo</item>
+        <item>ˈwɔːmo</item>
+        <item>bamˈbiːno</item>
+        <item>ˈmoʎʎe</item>
+        <item>maˈriːto</item>
+        <item>ˈmaːdre</item>
+        <item>ˈpaːdre</item>
+        <item>aniˈmaːle</item>
+        <item>ˈpeʃʃe</item>
+        <item>utˈt͡ʃɛllo</item>
+        <item>ˈkaːne</item>
+        <item>piˈdɔkkjo</item>
+        <item>serˈpɛnte</item>
+        <item>ˈvɛrme</item>
+        <item>ˈalbero</item>
+        <item>ˈselva</item>
+        <item>basˈtoːne</item>
+        <item>ˈfrutta</item>
+        <item>ˈseːme</item>
+        <item>ˈfɔʎʎa</item>
+        <item>raˈdiːt͡ʃe</item>
+        <item>korˈtett͡ʃa</item>
+        <item>ˈfjoːre</item>
+        <item>ˈɛrba</item>
+        <item>ˈkɔrda</item>
+        <item>ˈpɛlle</item>
+        <item>ˈkarne</item>
+        <item>ˈsaŋɡwe</item>
+        <item>ˈɔsso</item>
+        <item>ˈɡrasso</item>
+        <item>ˈwɔːvo</item>
+        <item>ˈkɔrno</item>
+        <item>ˈkoːda</item>
+        <item>ˈpjuːma</item>
+        <item>kaˈpelli</item>
+        <item>ˈtɛsta</item>
+        <item>ɔˈrekkjo</item>
+        <item>ˈɔkkjo</item>
+        <item>ˈnaːso</item>
+        <item>ˈbokka</item>
+        <item>ˈdɛnte</item>
+        <item>ˈliŋɡwa</item>
+        <item>ˈuŋɡja</item>
+        <item>ˈpjɛːde</item>
+        <item>ˈɡamba</item>
+        <item>d͡ʒiˈnɔkkjo</item>
+        <item>ˈmaːno</item>
+        <item>ˈaːla</item>
+        <item>ˈpant͡ʃa</item>
+        <item>intesˈtiːno</item>
+        <item>ˈkɔllo</item>
+        <item>ˈskjɛːna</item>
+        <item>ˈpɛtto,mamˈmɛlla</item>
+        <item>ˈkwɔːre</item>
+        <item>ˈfeːɡato</item>
+        <item>ˈbeːre</item>
+        <item>manˈd͡ʒaːre</item>
+        <item>ˈmɔrdere</item>
+        <item>sukˈkjaːre</item>
+        <item>spuˈtaːre</item>
+        <item>vomiˈtaːre</item>
+        <item>sofˈfjaːre</item>
+        <item>respiˈraːre</item>
+        <item>ˈriːdere</item>
+        <item>veˈdeːre</item>
+        <item>uˈdiːre</item>
+        <item>saˈpeːre</item>
+        <item>penˈsaːre</item>
+        <item>odoˈraːre</item>
+        <item>teˈmeːre</item>
+        <item>dorˈmiːre</item>
+        <item>ˈviːvere</item>
+        <item>moˈriːre</item>
+        <item>utˈt͡ʃiːdere</item>
+        <item>komˈbattere</item>
+        <item>katˈt͡ʃaːre</item>
+        <item>kolˈpiːre</item>
+        <item>taʎˈʎaːre</item>
+        <item>ˈfɛndere</item>
+        <item>puɲɲaˈlaːre</item>
+        <item>ɡrafˈfjaːre</item>
+        <item>skaˈvaːre</item>
+        <item>nwoˈtaːre</item>
+        <item>voˈlaːre</item>
+        <item>kammiˈnaːre</item>
+        <item>veˈniːre</item>
+        <item>d͡ʒaˈt͡ʃeːre</item>
+        <item>seˈdeːre,ˈɛssere seˈduːto,ˈstaːre seˈduːto</item>
+        <item>ˈstaːre im ˈpjɛːdi</item>
+        <item>d͡ʒiˈraːre</item>
+        <item>kaˈdeːre</item>
+        <item>ˈdaːre</item>
+        <item>teˈneːre</item>
+        <item>ˈsprɛːmere</item>
+        <item>strofiˈnaːre</item>
+        <item>laˈvaːre</item>
+        <item>aʃʃuˈɡaːre</item>
+        <item>tiˈraːre</item>
+        <item>ˈspind͡ʒere</item>
+        <item>lanˈt͡ʃaːre</item>
+        <item>leˈɡaːre</item>
+        <item>kuˈt͡ʃiːre</item>
+        <item>konˈtaːre</item>
+        <item>ˈdiːre</item>
+        <item>kanˈtaːre</item>
+        <item>d͡ʒoˈkaːre</item>
+        <item>ɡalledˈd͡ʒaːre</item>
+        <item>fluˈiːre</item>
+        <item>d͡ʒeˈlaːre</item>
+        <item>ɡonˈfjarsi</item>
+        <item>ˈsoːle</item>
+        <item>ˈluːna</item>
+        <item>ˈstella</item>
+        <item>ˈakkwa</item>
+        <item>ˈpjɔdd͡ʒa</item>
+        <item>ˈfjuːme</item>
+        <item>ˈlaːɡo</item>
+        <item>ˈmaːre</item>
+        <item>ˈsaːle</item>
+        <item>ˈpjɛːtra</item>
+        <item>ˈsabbja</item>
+        <item>ˈpolvere</item>
+        <item>ˈswɔːlo,ˈtɛrra</item>
+        <item>ˈnuːvola</item>
+        <item>ˈnebbja</item>
+        <item>ˈt͡ʃɛːlo</item>
+        <item>ˈvɛnto</item>
+        <item>ˈneːve</item>
+        <item>ˈɡjatt͡ʃo</item>
+        <item>ˈfuːmo</item>
+        <item>ˈfwɔːko</item>
+        <item>ˈt͡ʃeːneri</item>
+        <item>bruˈt͡ʃaːre</item>
+        <item>ˈstraːda</item>
+        <item>monˈtaɲɲa</item>
+        <item>ˈrosso</item>
+        <item>ˈverde</item>
+        <item>ˈd͡ʒallo</item>
+        <item>ˈbjaŋko</item>
+        <item>ˈneːro</item>
+        <item>ˈnɔtte</item>
+        <item>ˈd͡ʒorno</item>
+        <item>ˈanno</item>
+        <item>ˈkaldo</item>
+        <item>ˈfreddo</item>
+        <item>ˈpjɛːno</item>
+        <item>ˈnwɔːvo</item>
+        <item>ˈvɛkkjo</item>
+        <item>ˈbwɔːno</item>
+        <item>katˈtiːvo</item>
+        <item>ˈmart͡ʃo</item>
+        <item>ˈspɔrko</item>
+        <item>dritto</item>
+        <item>roˈtondo</item>
+        <item>aˈɡutt͡so,affiˈlaːto</item>
+        <item>zmusˈsaːto</item>
+        <item>ˈliʃʃo</item>
+        <item>baɲˈɲaːto</item>
+        <item>aʃˈʃutto,ˈsekko</item>
+        <item>korˈrɛtto</item>
+        <item>viˈt͡ʃiːno</item>
+        <item>lonˈtaːno</item>
+        <item>ˈdɛstra</item>
+        <item>siˈnistra</item>
+        <item>a</item>
+        <item>in</item>
+        <item>kon</item>
+        <item>e</item>
+        <item>se</item>
+        <item>perˈke</item>
+        <item>ˈnoːme</item>
+    </string-array>
+
+    <string-array name="Yue">
+        <item>ŋɔː˩˧</item>
+        <item>nei̯˩˧</item>
+        <item>kʰɵy̯˩˧</item>
+        <item>ŋɔː˩˧tei̯˨</item>
+        <item>nei̯˩˧tei̯˨</item>
+        <item>kʰɵy̯˩˧tei̯˨</item>
+        <item>niː˥˧</item>
+        <item>kɔː˧˥</item>
+        <item>niː˥˧tou̯˨</item>
+        <item>kɔː˧˥tou̯˨</item>
+        <item>piːn˥˧kɔː˧</item>
+        <item>mɐt̚˥˧</item>
+        <item>piːn˥˧tou̯˨</item>
+        <item>kei̯˧˥siː˨˩</item>
+        <item>jyː˨˩hɔː˨˩, tiːm˧˥jœːŋ˧˥</item>
+        <item>m̩˨˩hɐi̯˨ , mou̯˩˧</item>
+        <item>tsʰyːn˨˩pou̯˨ , tou̯˥˧</item>
+        <item>tɔː˥˧</item>
+        <item>tiː˥˧</item>
+        <item>siːu̯˧˥</item>
+        <item>kʰei̯˨˩tʰaː˥˧</item>
+        <item>jɐt̚˥˧</item>
+        <item>jiː˨</item>
+        <item>saːm˥˧</item>
+        <item>sei̯˧</item>
+        <item>ŋ̩˩˧</item>
+        <item>taːi̯˨</item>
+        <item>tsʰœːŋ˨˩</item>
+        <item>fuːt̚˧</item>
+        <item>hɐu̯˩˧</item>
+        <item>tsʰoŋ˩˧</item>
+        <item>sɐi̯˧</item>
+        <item>tyːn˧˥</item>
+        <item>tsaːk̚˧</item>
+        <item>pɔːk̚˨</item>
+        <item>nɵy̯˩˧</item>
+        <item>naːm˨˩</item>
+        <item>jɐn˨˩</item>
+        <item>sɐi̯˧ lou̯˨</item>
+        <item>lou̯˩˧pʰɔː˨˩</item>
+        <item>lou̯˩˧koŋ˥˧</item>
+        <item>aː˧ maː˥˧</item>
+        <item>aː˧ paː˨˩</item>
+        <item>toŋ˨ mɐt̚˨</item>
+        <item>jyː˧˥</item>
+        <item>tsœːk̚˧</item>
+        <item>kɐu̯˧˥</item>
+        <item>sɐt̚˥˧</item>
+        <item>sɛː˨˩</item>
+        <item>jɐu̯˥˧jɐn˩˧</item>
+        <item>syː˨</item>
+        <item>sɐm˥˧lɐm˨˩</item>
+        <item>tsiː˥˧</item>
+        <item>saːŋ˥˧kʷɔː˧˥</item>
+        <item>tsoŋ˧˥tsiː˧˥</item>
+        <item>jiːp̚˨</item>
+        <item>kɐn˥˧</item>
+        <item>syː˨ pʰei̯˨˩</item>
+        <item>faː˥˧</item>
+        <item>tsʰou̯˧˥</item>
+        <item>seŋ˧˥</item>
+        <item>pʰei̯˨˩</item>
+        <item>jok̚˨</item>
+        <item>hyːt̚˧</item>
+        <item>kʷɐt̚˥˧</item>
+        <item>fei̯˨˩</item>
+        <item>taːn˧˥</item>
+        <item>kɔːk̚˧</item>
+        <item>mei̯˩˧paː˥˧</item>
+        <item>jyː˩˧mou̯˨˩</item>
+        <item>faːt̚˧ , mou̯˨˩</item>
+        <item>tʰɐu̯˨˩</item>
+        <item>jiː˩˧tsɐi̯˧˥</item>
+        <item>ŋaːn˩˧</item>
+        <item>pei̯˨</item>
+        <item>tsɵy̯˧˥, hɐu̯˧˥</item>
+        <item>ŋaː˨˩</item>
+        <item>lei̯˨</item>
+        <item>tsiː˧˥kaːp̚˧</item>
+        <item>kœːk̚˧</item>
+        <item>tʰɵy̯˧˥</item>
+        <item>sɐt̚˥˧tʰɐu̯˨˩</item>
+        <item>sɐu̯˧˥</item>
+        <item>jek̚˨</item>
+        <item>tʰou̯˩˧</item>
+        <item>nɔːy̯˨ tsɔːŋ˨</item>
+        <item>kɛːŋ˧˥</item>
+        <item>puːy̯˧</item>
+        <item>hoŋ˥˧</item>
+        <item>sɐm˥˧</item>
+        <item>kɔːn˥˧</item>
+        <item>jɐm˧˥</item>
+        <item>sek̚˨</item>
+        <item>ŋaːu̯˩˧</item>
+        <item>kʰɐp̚˥˧, tsyːt̚˧</item>
+        <item>lœː˥˧, tʰou̯˧ , tʰuː˥˧</item>
+        <item>ɐu̯˧˥</item>
+        <item>tsʰɵy̯˥˧</item>
+        <item>fuː˥˧kʰɐp̚˥˧</item>
+        <item>siːu̯˧</item>
+        <item>kiːn˧ , tʰɐi̯˧˥</item>
+        <item>tʰɛːŋ˥˧</item>
+        <item>tsiː˥˧</item>
+        <item>nɐm˧˥</item>
+        <item>mɐn˨˩</item>
+        <item>kɛːŋ˥˧, pʰaː˧</item>
+        <item>fɐn˧</item>
+        <item>saːŋ˥˧</item>
+        <item>sei̯˧˥</item>
+        <item>saːt̚˧</item>
+        <item>tsaːŋ˥˧</item>
+        <item>taː˧˥liːp̚˨</item>
+        <item>taː˧˥</item>
+        <item>tsʰiːt̚˧ , tsiːn˧˥</item>
+        <item>pʰɛːk̚˧ hɔːy̯˥˧</item>
+        <item>tsʰaːp̚˧</item>
+        <item>kʷaːt̚˧</item>
+        <item>kʷɐt̚˨</item>
+        <item>jɐu̯˨˩sɵy̯˧˥</item>
+        <item>fei̯˥˧</item>
+        <item>haːŋ˨˩</item>
+        <item>lɐi̯˨˩</item>
+        <item>fɐn˧</item>
+        <item>tsʰɔː˩˧</item>
+        <item>kʰei̯˩˧</item>
+        <item>tsyːn˧</item>
+        <item>tiːt̚˧</item>
+        <item>pei̯˧˥</item>
+        <item>tsaː˥˧</item>
+        <item>kɛːp̚˨</item>
+        <item>tsʰaːt̚˧</item>
+        <item>sɐi̯˧˥</item>
+        <item>maːt̚˧</item>
+        <item>laːi̯˥˧, maːn˥˧</item>
+        <item>tʰɵy̯˥˧, oŋ˧˥</item>
+        <item>tɐm˧˥, tɛːu̯˨</item>
+        <item>pɔːŋ˧˥</item>
+        <item>lyːn˨˩</item>
+        <item>sou̯˧˥</item>
+        <item>kɔːŋ˧˥</item>
+        <item>tsʰœːŋ˧</item>
+        <item>waːn˧˥</item>
+        <item>fɐu̯˨˩</item>
+        <item>lɐu̯˨˩</item>
+        <item>kiːt̚˧ peŋ˥˧</item>
+        <item>tsœːŋ˧</item>
+        <item>tʰaːi̯˧ jœːŋ˨˩, jɐt̚˨ tʰɐu̯˧˥</item>
+        <item>jyːt̚˨ lœːŋ˨</item>
+        <item>seŋ˥˧</item>
+        <item>sɵy̯˧˥</item>
+        <item>jyː˩˧</item>
+        <item>kɔːŋ˥˧, hɔː˨˩</item>
+        <item>wuː˨˩</item>
+        <item>hɔːy̯˧˥</item>
+        <item>jiːm˨˩</item>
+        <item>sɛːk̚˨</item>
+        <item>saː˥˧</item>
+        <item>tsʰɐn˨˩</item>
+        <item>tei̯˨ kʰɐu̯˨˩, tʰou̯˧˥</item>
+        <item>wɐn˨˩</item>
+        <item>mou̯˨</item>
+        <item>tʰiːn˥˧</item>
+        <item>foŋ˥˧</item>
+        <item>syːt̚˧</item>
+        <item>peŋ˥˧</item>
+        <item>jiːn˥˧</item>
+        <item>fɔː˧˥</item>
+        <item>fuːy̯˥˧</item>
+        <item>siːu̯˥˧</item>
+        <item>lou̯˨ , tou̯˨</item>
+        <item>saːn˥˧</item>
+        <item>hoŋ˨˩</item>
+        <item>lok̚˨</item>
+        <item>wɔːŋ˨˩</item>
+        <item>paːk̚˨</item>
+        <item>hɐk̚˥˧</item>
+        <item>jɛː˨ maːn˩˧</item>
+        <item>jɐt̚˨ tʰɐu̯˧˥</item>
+        <item>niːn˨˩</item>
+        <item>nyːn˩˧</item>
+        <item>toŋ˧</item>
+        <item>muːn˩˧</item>
+        <item>sɐn˥˧</item>
+        <item>kɐu̯˨</item>
+        <item>hou̯˧˥</item>
+        <item>waːi̯˨</item>
+        <item>laːn˨</item>
+        <item>wuː˥˧tsou̯˥˧</item>
+        <item>tsek̚˨</item>
+        <item>jyːn˨˩</item>
+        <item>lei̯˨</item>
+        <item>kʷɐt̚˨</item>
+        <item>waːt̚˨</item>
+        <item>sɐp̚˥˧</item>
+        <item>kɔːn˥˧</item>
+        <item>ŋaːm˥˧</item>
+        <item>kʰɐn˩˧</item>
+        <item>jyːn˩˧</item>
+        <item>jɐu̯˨</item>
+        <item>tsɔː˧˥</item>
+        <item>hɐi̯˧˥</item>
+        <item>lɵy̯˧ miːn˨ , jɐp̚˨ miːn˨</item>
+        <item>tʰoŋ˨˩</item>
+        <item>jyː˩˧, tʰoŋ˨˩</item>
+        <item>jyː˨˩kʷɔː˧˥</item>
+        <item>jɐn˥˧wɐi̯˨</item>
+        <item>ŋɔː˩˧</item>
+    </string-array>
+
+    <string-array name="Thai">
+    </string-array>
+</resources>
