@@ -3169,6 +3169,194 @@
     </string-array>
 
     <string-array name="Turkish">
+        <item>ben</item>
+        <item>sen, sizo</item>
+        <item>biz</item>
+        <item>siz</item>
+        <item>onɫaɾ</item>
+        <item>bu</item>
+        <item>ʃu, o</item>
+        <item>buɾada</item>
+        <item>ʃuɾada, oɾada</item>
+        <item>kimneneɾedene zamannasɯɫdeːiɫ ; -ma-, -me-bytyn, tym</item>
+        <item>t͡ʃok</item>
+        <item>biɾaz, biɾkat͡ʃ, bazɯ</item>
+        <item>az</item>
+        <item>baʃka, diːeɾ, øbyɾ, øteki</item>
+        <item>biɾ</item>
+        <item>iki</item>
+        <item>yt͡ʃ</item>
+        <item>døɾt</item>
+        <item>beʃ</item>
+        <item>byjyk</item>
+        <item>uzun</item>
+        <item>geniʃ</item>
+        <item>kaɫɯn</item>
+        <item>aːɯɾ</item>
+        <item>kyt͡ʃyk</item>
+        <item>kɯsa</item>
+        <item>daɾ</item>
+        <item>ind͡ʒe</item>
+        <item>kadɯn</item>
+        <item>adam</item>
+        <item>insan, kiʃi</item>
+        <item>t͡ʃod͡ʒuk</item>
+        <item>kaɾɯ</item>
+        <item>kod͡ʒa</item>
+        <item>anne, ana</item>
+        <item>baba, ata</item>
+        <item>hajvan</item>
+        <item>baɫɯk</item>
+        <item>kuʃ</item>
+        <item>køpek, it</item>
+        <item>bit</item>
+        <item>jɯɫan</item>
+        <item>soɫud͡ʒan, kuɾtaːat͡ʃ</item>
+        <item>oɾman</item>
+        <item>t͡ʃubuk, deːnek, t͡ʃɯta</item>
+        <item>mejve, mejva</item>
+        <item>tohum</item>
+        <item>japɾak</item>
+        <item>køk</item>
+        <item>kabuk</item>
+        <item>t͡ʃit͡ʃek</item>
+        <item>ot, t͡ʃimen, t͡ʃim</item>
+        <item>ip, haɫat</item>
+        <item>deɾi, ten</item>
+        <item>et</item>
+        <item>kan</item>
+        <item>kemik</item>
+        <item>jaː</item>
+        <item>jumuɾta</item>
+        <item>bojnuz</item>
+        <item>kujɾuk</item>
+        <item>tyj</item>
+        <item>sat͡ʃ, kɯɫ</item>
+        <item>baʃ, kafa</item>
+        <item>kuɫak</item>
+        <item>gøz</item>
+        <item>buɾun</item>
+        <item>aːɯz</item>
+        <item>diʃ</item>
+        <item>diɫ</item>
+        <item>tɯɾnak</item>
+        <item>ajak</item>
+        <item>bad͡ʒak</item>
+        <item>diz</item>
+        <item>eɫ</item>
+        <item>kanat</item>
+        <item>kaɾɯn, gøbek</item>
+        <item>baːɯɾsak, baɾsak</item>
+        <item>bojun</item>
+        <item>aɾka, sɯɾt</item>
+        <item>gøːys</item>
+        <item>jyɾek, kaɫp</item>
+        <item>kaɾad͡ʒiːeɾ, d͡ʒiːeɾ</item>
+        <item>it͡ʃmek</item>
+        <item>jemek</item>
+        <item>ɯsɯɾmak</item>
+        <item>emmek</item>
+        <item>tykyɾmek</item>
+        <item>kusmak</item>
+        <item>yfɫemek</item>
+        <item>soɫuk aɫmak, soɫumak, nefes aɫmak</item>
+        <item>gyɫmek</item>
+        <item>gøɾmek</item>
+        <item>iʃitmek, dujmak</item>
+        <item>biɫmek</item>
+        <item>dyʃynmek</item>
+        <item>kokɫamak, kokmakkoɾkmak</item>
+        <item>ujumak</item>
+        <item>jaʃamak, otuɾmakøɫmek</item>
+        <item>øɫdyɾmek</item>
+        <item>døvyʃmek, kavga etmek</item>
+        <item>avɫamak</item>
+        <item>vuɾmak</item>
+        <item>kesmek</item>
+        <item>jaɾmak, ajɯɾmak</item>
+        <item>bɯt͡ʃakɫamak</item>
+        <item>kaʃɯmak</item>
+        <item>kazmak</item>
+        <item>jyzmek</item>
+        <item>ut͡ʃmak</item>
+        <item>jyɾymek</item>
+        <item>geɫmek</item>
+        <item>jatmak, uzanmakotuɾmakkaɫkmak, dikiɫmekdønmek</item>
+        <item>dyʃmek</item>
+        <item>veɾmek</item>
+        <item>tutmak</item>
+        <item>sɯkmak</item>
+        <item>syɾmek, syɾtmek, uːmak</item>
+        <item>jɯkamak, junmak</item>
+        <item>siɫmek</item>
+        <item>t͡ʃekmek</item>
+        <item>itmek</item>
+        <item>atmak</item>
+        <item>baːɫamak</item>
+        <item>dikmek</item>
+        <item>sajmak</item>
+        <item>demek, søjɫemek</item>
+        <item>ʃaɾkɯ søjɫemek</item>
+        <item>ojnamak</item>
+        <item>jyzmek</item>
+        <item>akmak</item>
+        <item>donmak, donduɾmakʃiʃmek</item>
+        <item>gyneʃ</item>
+        <item>aj</item>
+        <item>jɯɫdɯz</item>
+        <item>su</item>
+        <item>jaːmuɾ</item>
+        <item>ɯɾmak, nehiɾ</item>
+        <item>gøɫ</item>
+        <item>deniz</item>
+        <item>tuz</item>
+        <item>taʃ</item>
+        <item>kum</item>
+        <item>toz</item>
+        <item>jeɾ, jeɾjyzy, dynja</item>
+        <item>buɫut</item>
+        <item>sis</item>
+        <item>gøk, gøkjyzy</item>
+        <item>jeɫ, ɾyzgâɾ</item>
+        <item>kaɾ</item>
+        <item>buz</item>
+        <item>duman</item>
+        <item>od, ateʃ</item>
+        <item>kyɫ</item>
+        <item>jakmak, janmakjoɫ</item>
+        <item>daː</item>
+        <item>kɯzɯɫ, kɯɾmɯzɯ</item>
+        <item>jeʃiɫ</item>
+        <item>saɾɯ</item>
+        <item>ak, bejaz</item>
+        <item>kaɾa, sijah</item>
+        <item>ged͡ʒe</item>
+        <item>gyn, gyndyz</item>
+        <item>jɯɫ, sene</item>
+        <item>sɯd͡ʒak, ɯɫɯksoːuk, seɾindoɫu</item>
+        <item>jeni</item>
+        <item>eski, jaʃɫɯiji</item>
+        <item>køty</item>
+        <item>t͡ʃyɾyk</item>
+        <item>pis, kiɾɫi</item>
+        <item>dyz, dyzgyn, doːɾu</item>
+        <item>juvaɾɫak, topaɾɫak</item>
+        <item>keskin</item>
+        <item>køɾ</item>
+        <item>pyɾyzsyz, dyzgyn</item>
+        <item>ɯsɫak, nemɫi</item>
+        <item>kuɾu</item>
+        <item>doːɾu, geɾt͡ʃek</item>
+        <item>jakɯn</item>
+        <item>uzak</item>
+        <item>saː</item>
+        <item>soɫ</item>
+        <item>-da, -de, -a, -e,</item>
+        <item>-da, -de, it͡ʃinde, it͡ʃeɾisinde</item>
+        <item>iɫe, -ɫe</item>
+        <item>ve, iɫe, dede-sa, -se, ise, eːeɾise</item>
+        <item>t͡ʃynky,it͡ʃin</item>
+        <item>ad, isim</item>
     </string-array>
 
     <string-array name="Italian">
