@@ -2947,6 +2947,213 @@
     </string-array>
 
     <string-array name="Korean">
+        <item>nɑ, t͡ɕ⁽ʰʌ</item>
+        <item>nʌ, ni</item>
+        <item>k⁽ʰɯ̽</item>
+        <item>uɾi, t͡ɕ⁽ʰʌhɰi</item>
+        <item>nʌhɰi</item>
+        <item>k⁽ʰɯ̽dɯ̽l</item>
+        <item>i</item>
+        <item>k⁽ʰɯ̽, t͡ɕ⁽ʰʌ</item>
+        <item>jʌgi, igot ̚</item>
+        <item>k⁽ʰʌgi</item>
+        <item>nugu, nugɑ</item>
+        <item>muɔt, mwɔ</item>
+        <item>ʌdi</item>
+        <item>ˈɘːnd͡ʑe̞</item>
+        <item>ɔt͈ɔke</item>
+        <item>ɑni, ɑn</item>
+        <item>modɯ̽n, modu</item>
+        <item>manɦɯ̽n</item>
+        <item>ʌt͈ʌn, t͡ɕ⁽ʰ⁾ogɯ̽m</item>
+        <item>t͡ɕ⁽ʰ⁾ogɯ̽m</item>
+        <item>dɑɾɯ̽n</item>
+        <item>hɑnɑ, hɑn</item>
+        <item>dul, du</item>
+        <item>set ̚, se</item>
+        <item>net ̚, ne</item>
+        <item>dɑsʌt ̚</item>
+        <item>kʰɯ̽n, kʰɯ̽dɑ</item>
+        <item>gin, gildɑ</item>
+        <item>nɔlda</item>
+        <item>duk͈ɔpʰda</item>
+        <item>mugɔpʰda</item>
+        <item>tɕakda</item>
+        <item>tɕ͈alda</item>
+        <item>tɕopʰda</item>
+        <item>jalda</item>
+        <item>jɔja, gjetɕipʰ, gat </item>
+        <item>sanai, namtɕa,</item>
+        <item>saram</item>
+        <item>ɔrini, ai, ɛ</item>
+        <item>anɛ, manura</item>
+        <item>tɕiabi, sjaong, nampʰjɔn,</item>
+        <item>ɔmɔni, ɔmma</item>
+        <item>abɔtɕi, apʰ͈a</item>
+        <item>tɕimsɯng  </item>
+        <item>mulgogi</item>
+        <item>sɛ</item>
+        <item>gɛ</item>
+        <item>i</item>
+        <item>pʰɛm</item>
+        <item>pʰɔlle</item>
+        <item>namu</item>
+        <item>supʰ</item>
+        <item>makdɛgi</item>
+        <item>jɔlmɛ, jɔrɯm </item>
+        <item>s͈i</item>
+        <item>ipʰ</item>
+        <item>pʰ͈uri</item>
+        <item>namuk͈ɔpʰtɕil</item>
+        <item>k͈ot</item>
+        <item>pʰʰul, tɕandi </item>
+        <item>pʰattɕul</item>
+        <item>salgat</item>
+        <item>sal, gogi</item>
+        <item>pʰʰi</item>
+        <item>pʰ͈jɔ</item>
+        <item>girɯm</item>
+        <item>al</item>
+        <item>pʰ͈ul</item>
+        <item>k͈ori</item>
+        <item>git͈ɔl</item>
+        <item>tʰɔl, tɔrɔk</item>
+        <item>mɔri, dɛgari</item>
+        <item>gwi</item>
+        <item>nun</item>
+        <item>ko</item>
+        <item>ipʰ</item>
+        <item>i, ipʰ͈al </item>
+        <item>hjɔ, s͈e </item>
+        <item>sontopʰ</item>
+        <item>pʰal</item>
+        <item>dari</item>
+        <item>murɯpʰ</item>
+        <item>son</item>
+        <item>nalgɛ</item>
+        <item>pʰɛ</item>
+        <item>ɛ</item>
+        <item>mok</item>
+        <item>dɯng</item>
+        <item>gasɯm</item>
+        <item>jɔmtong, simtɕang </item>
+        <item>gan, ɛ </item>
+        <item>masida</item>
+        <item>mɔkda</item>
+        <item>mulda</item>
+        <item>pʰ͈alda</item>
+        <item>pʰɛtda</item>
+        <item>ge'uda</item>
+        <item>pʰulda</item>
+        <item>swida</item>
+        <item>utda</item>
+        <item>bodɑ</item>
+        <item>dɯtda</item>
+        <item>ɑlda</item>
+        <item>hearida, sɛnggakhada</item>
+        <item>nɛmsɛ</item>
+        <item>durjɔum, musɔum</item>
+        <item>t͡ɕ⁽ʰ⁾ada</item>
+        <item>s⁽ʰ⁾ɑldɑ</item>
+        <item>tɕukda, ditɕida </item>
+        <item>tɕugida</item>
+        <item>s͈auda</item>
+        <item>sanjang-hada  </item>
+        <item>tɕʰida, t͈ɛrida</item>
+        <item>pʰeda, tɕarɯda</item>
+        <item>gallatɕida, garɯda </item>
+        <item>tɕ͈irɯda</item>
+        <item>pʰibida, gɯkda</item>
+        <item>pʰʰada</item>
+        <item>heɔmtɕʰida</item>
+        <item>nalda</item>
+        <item>gɔtda</item>
+        <item>oda</item>
+        <item>nupʰda</item>
+        <item>ant͈a</item>
+        <item>sɔda</item>
+        <item>dolda</item>
+        <item>tʰ͈ɔrɔtɕida</item>
+        <item>tɕuda</item>
+        <item>tɕapda, buttɕapʰda</item>
+        <item>tɕ͈ada</item>
+        <item>muntɕirɯda</item>
+        <item>pʰ͈alda, s͈itda</item>
+        <item>dakda</item>
+        <item>k͈ɯ̽ldɑ</item>
+        <item>mildɑ</item>
+        <item>dɔntɕida</item>
+        <item>mεdɑ</item>
+        <item>k͈ʷemεdɑ</item>
+        <item>s⁽ʰ⁾edɑ</item>
+        <item>malhada</item>
+        <item>norɛhada, burɯda</item>
+        <item>nolda</item>
+        <item>tʰ͈ɯda</item>
+        <item>hɯrɯda</item>
+        <item>ʌldɑ</item>
+        <item>pʰutda</item>
+        <item>hε</item>
+        <item>dɑl</item>
+        <item>pʰjɔl</item>
+        <item>mul</item>
+        <item>pʰi</item>
+        <item>nɛ, garam</item>
+        <item>mot</item>
+        <item>pʰada</item>
+        <item>sogɯm</item>
+        <item>dol, bawi</item>
+        <item>morɛ</item>
+        <item>mɔntɕi</item>
+        <item>hɯk</item>
+        <item>gurɯm</item>
+        <item>angae</item>
+        <item>hanɯl</item>
+        <item>pʰaram</item>
+        <item>nun</item>
+        <item>ɔrɯm</item>
+        <item>nɛ, jɔngi  </item>
+        <item>pʰul</item>
+        <item>tɕɛ</item>
+        <item>tɑdɑ</item>
+        <item>gil</item>
+        <item>moe, me, ɔndɔk, san </item>
+        <item>pʰ͈algang, bukda</item>
+        <item>galmɛ, tɕʰorok </item>
+        <item>norang</item>
+        <item>hajang</item>
+        <item>gɔmtɕɔng, gɔmda, k͈amata</item>
+        <item>bɑm</item>
+        <item>nɑd</item>
+        <item>hɛ</item>
+        <item>tʰ͈at͈ɯt</item>
+        <item>tɕʰada, tɕʰupʰda</item>
+        <item>tɕʰada, burɯda</item>
+        <item>sɛ, sɛroun</item>
+        <item>jet, orɛdoeda</item>
+        <item>tɕota</item>
+        <item>napʰ͈ɯda</item>
+        <item>s͈ɔkda</item>
+        <item>dɔrɔpʰda</item>
+        <item>gotda</item>
+        <item>dunggɯlda</item>
+        <item>nalkaropda, pʰ͈jotɕokhada </item>
+        <item>mudida</item>
+        <item>pudɯrɔpʰda</item>
+        <item>tɕɔtda</item>
+        <item>marɯda</item>
+        <item>pʰarɯda, matda</item>
+        <item>gak͈apʰda</item>
+        <item>mɔlda</item>
+        <item>orɯntɕ͈ok</item>
+        <item>oentɕ͈ok</item>
+        <item>esɔ</item>
+        <item>e, ane</item>
+        <item>wa, gwa, rang</item>
+        <item>wa, gwa</item>
+        <item>handamjɔn, manjak,  ...-mjɔn</item>
+        <item>tʰ͈ɛmune</item>
+        <item>iɾɯ̽m</item>
     </string-array>
 
     <string-array name="French">
