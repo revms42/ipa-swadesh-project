@@ -1,7 +1,7 @@
 package org.ajar.swadesh.model;
 
 public enum SwadeshList {
-    I,
+    I,//1
     YOU,
     HE,
     WE,
@@ -11,7 +11,7 @@ public enum SwadeshList {
     THAT,
     HERE,
     THERE,
-    WHO,
+    WHO,//10
     WHAT,
     WHERE,
     WHEN,
@@ -21,7 +21,7 @@ public enum SwadeshList {
     MANY,
     SOME,
     FEW,
-    OTHER,
+    OTHER,//20
     ONE,
     TWO,
     THREE,
@@ -31,7 +31,7 @@ public enum SwadeshList {
     LONG,
     WIDE,
     THICK,
-    HEAVY,
+    HEAVY,//30
     SMALL,
     SHORT,
     NARROW,
@@ -41,7 +41,7 @@ public enum SwadeshList {
     PERSON,
     CHILD,
     WIFE,
-    HUSBAND,
+    HUSBAND,//40
     MOTHER,
     FATHER,
     ANIMAL,
@@ -51,7 +51,7 @@ public enum SwadeshList {
     LOUSE,
     SNAKE,
     WORM,
-    TREE,
+    TREE,//50
     FOREST,
     STICK,
     FRUIT,
@@ -61,7 +61,7 @@ public enum SwadeshList {
     BARK, //tree
     FLOWER,
     GRASS,
-    ROPE,
+    ROPE,//60
     SKIN,
     MEAT,
     BLOOD,
@@ -71,7 +71,7 @@ public enum SwadeshList {
     HORN,
     TAIL,
     FEATHER,
-    HAIR,
+    HAIR,//70
     HEAD,
     EAR,
     EYE,
@@ -111,7 +111,7 @@ public enum SwadeshList {
     TO_LIVE,
     TO_DIE,
     TO_KILL,
-    TO_FIGHT,
+    TO_FIGHT,//110
     TO_HUNT,
     TO_HIT,
     TO_CUT,
@@ -121,7 +121,7 @@ public enum SwadeshList {
     TO_DIG,
     TO_SWIM,
     TO_FLY,
-    TO_WALK,
+    TO_WALK,//120
     TO_COME,
     TO_LIE, //as_in_sleep
     TO_SIT,
@@ -141,7 +141,7 @@ public enum SwadeshList {
     TO_SEW,
     TO_COUNT,
     TO_SAY,
-    TO_SING,
+    TO_SING,//140
     TO_PLAY,
     TO_FLOAT,
     TO_FLOW,
@@ -151,7 +151,7 @@ public enum SwadeshList {
     MOON,
     STAR,
     WATER,
-    RAIN,
+    RAIN,//150
     RIVER,
     LAKE,
     SEA,
@@ -171,7 +171,7 @@ public enum SwadeshList {
     ASH,
     TO_BURN,
     ROAD,
-    MOUNTAIN,
+    MOUNTAIN,//170
     RED,
     GREEN,
     YELLOW,
@@ -181,7 +181,7 @@ public enum SwadeshList {
     DAY,
     YEAR,
     WARM,
-    COLD,
+    COLD,//180
     FULL,
     NEW,
     OLD,

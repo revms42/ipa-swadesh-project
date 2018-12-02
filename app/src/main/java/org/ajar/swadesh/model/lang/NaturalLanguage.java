@@ -33,7 +33,7 @@ public enum NaturalLanguage implements Language {
     TURKISH("Turkish", 63, R.array.Turkish),
     ITALIAN("Italian", 59, R.array.Italian),
     YUE("Yue", 59, R.array.Yue), // (incl. Cantonese)
-    THAI("Thai", 5, R.array.Thai);
+    THAI("Thai", 56, R.array.Thai);
 
     private final String name;
     private final int weight;
@@ -44,7 +44,7 @@ public enum NaturalLanguage implements Language {
         this.name = name;
         this.weight = weight;
         this.arrayInt = array;
-        this.swadeshList = new EnumMap(SwadeshList.class);
+        this.swadeshList = new EnumMap<>(SwadeshList.class);
     }
 
     @Override
