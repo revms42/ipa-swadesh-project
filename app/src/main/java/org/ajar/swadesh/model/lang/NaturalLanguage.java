@@ -1,5 +1,6 @@
 package org.ajar.swadesh.model.lang;
 
+import android.content.Context;
 import android.content.res.Resources;
 
 import org.ajar.swadesh.R;
@@ -57,12 +58,17 @@ public enum NaturalLanguage implements Language {
         return weight;
     }
 
-    public Map<SwadeshList,String> getSwadeshList() {
+    public Map<SwadeshList,String> getSwadeshList(Context context) {
         if(swadeshList.isEmpty()) {
-            String[] swadesh = Resources.getSystem().getStringArray(arrayInt);
-            for(int i = 0; i < swadesh.length; i++) {
-                this.swadeshList.put(SwadeshList.values()[i],swadesh[i]);
+            try{
+                String[] swadesh = context.getResources().getStringArray(arrayInt);
+                for(int i = 0; i < swadesh.length; i++) {
+                    this.swadeshList.put(SwadeshList.values()[i],swadesh[i]);
+                }
+            } catch (Resources.NotFoundException e) {
+                throw new Resources.NotFoundException("Couldn't find " + name, e);
             }
+
         }
 
         return swadeshList;

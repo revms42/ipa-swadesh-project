@@ -1,5 +1,6 @@
 package org.ajar.swadesh
 
+import org.ajar.swadesh.model.lang.NaturalLanguage
 import org.junit.Test
 
 import org.junit.Assert.*
@@ -11,7 +12,13 @@ import org.junit.Assert.*
  */
 class ExampleUnitTest {
     @Test
-    fun addition_isCorrect() {
-        assertEquals(4, 2 + 2)
+    fun checkSumLanguages() {
+        var total = 0
+
+        for (lang in NaturalLanguage.values()) {
+            total += lang.weight
+        }
+
+        System.out.println(total)
     }
 }

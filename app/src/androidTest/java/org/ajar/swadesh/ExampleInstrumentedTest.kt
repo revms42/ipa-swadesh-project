@@ -2,11 +2,14 @@ package org.ajar.swadesh
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
+import android.util.Log
+import org.ajar.swadesh.model.ipa.PhoneticParser
+import org.ajar.swadesh.model.lang.NaturalLanguage
 
 import org.junit.Test
 import org.junit.runner.RunWith
 
-import org.junit.Assert.*
+import kotlin.IllegalArgumentException as IAE
 
 /**
  * Instrumented test, which will execute on an Android device.
@@ -15,10 +18,20 @@ import org.junit.Assert.*
  */
 @RunWith(AndroidJUnit4::class)
 class ExampleInstrumentedTest {
+
+
     @Test
-    fun useAppContext() {
-        // Context of the app under test.
+    fun characterUsage() {
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("org.ajar.swadesh", appContext.packageName)
+
+        for (lang in NaturalLanguage.values()) {
+            Log.i("Parser", "Starting $lang")
+            for (words in lang.getSwadeshList(appContext).values) {
+                for(word in words.split(",")) {
+                    PhoneticParser.parsePhoneticString(word.trim())
+                }
+            }
+            Log.i("Parser", "Finished $lang")
+        }
     }
 }
