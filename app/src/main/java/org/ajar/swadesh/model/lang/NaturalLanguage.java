@@ -4,7 +4,7 @@ import android.content.Context;
 import android.content.res.Resources;
 
 import org.ajar.swadesh.R;
-import org.ajar.swadesh.model.SwadeshList;
+import org.ajar.swadesh.model.SwadeshWord;
 
 import java.util.EnumMap;
 import java.util.Map;
@@ -38,14 +38,14 @@ public enum NaturalLanguage implements Language {
 
     private final String name;
     private final int weight;
-    private final Map<SwadeshList,String> swadeshList;
+    private final Map<SwadeshWord,String> swadeshList;
     private final int arrayInt;
 
     NaturalLanguage(String name, int weight, int array){
         this.name = name;
         this.weight = weight;
         this.arrayInt = array;
-        this.swadeshList = new EnumMap<>(SwadeshList.class);
+        this.swadeshList = new EnumMap<>(SwadeshWord.class);
     }
 
     @Override
@@ -58,12 +58,12 @@ public enum NaturalLanguage implements Language {
         return weight;
     }
 
-    public Map<SwadeshList,String> getSwadeshList(Context context) {
+    public Map<SwadeshWord,String> getSwadeshList(Context context) {
         if(swadeshList.isEmpty()) {
             try{
                 String[] swadesh = context.getResources().getStringArray(arrayInt);
                 for(int i = 0; i < swadesh.length; i++) {
-                    this.swadeshList.put(SwadeshList.values()[i],swadesh[i]);
+                    this.swadeshList.put(SwadeshWord.values()[i],swadesh[i]);
                 }
             } catch (Resources.NotFoundException e) {
                 throw new Resources.NotFoundException("Couldn't find " + name, e);
@@ -72,5 +72,10 @@ public enum NaturalLanguage implements Language {
         }
 
         return swadeshList;
+    }
+
+    @Override
+    public String toString() {
+        return name;
     }
 }

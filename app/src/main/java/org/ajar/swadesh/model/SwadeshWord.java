@@ -1,6 +1,6 @@
 package org.ajar.swadesh.model;
 
-public enum SwadeshList {
+public enum SwadeshWord {
     I,//1
     YOU,
     HE,

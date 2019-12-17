@@ -1,9 +1,16 @@
 package org.ajar.swadesh
 
-import android.support.test.InstrumentationRegistry
-import android.support.test.runner.AndroidJUnit4
 import android.util.Log
+import androidx.test.InstrumentationRegistry
+import androidx.test.runner.AndroidJUnit4
+import org.ajar.swadesh.model.GlobalStatistics
 import org.ajar.swadesh.model.ipa.PhoneticParser
+import org.ajar.swadesh.model.ipa.PhoneticSymbol
+import org.ajar.swadesh.model.ipa.PulmonicConsonant
+import org.ajar.swadesh.model.ipa.Vowel
+import org.ajar.swadesh.model.lang.Family
+import org.ajar.swadesh.model.lang.FamilyTree
+import org.ajar.swadesh.model.lang.Language
 import org.ajar.swadesh.model.lang.NaturalLanguage
 
 import org.junit.Test
@@ -19,19 +26,19 @@ import kotlin.IllegalArgumentException as IAE
 @RunWith(AndroidJUnit4::class)
 class ExampleInstrumentedTest {
 
-
     @Test
     fun characterUsage() {
         val appContext = InstrumentationRegistry.getTargetContext()
 
-        for (lang in NaturalLanguage.values()) {
-            Log.i("Parser", "Starting $lang")
-            for (words in lang.getSwadeshList(appContext).values) {
-                for(word in words.split(",")) {
-                    PhoneticParser.parsePhoneticString(word.trim())
-                }
-            }
-            Log.i("Parser", "Finished $lang")
-        }
+        val gs = GlobalStatistics(appContext)
+
+        gs.langInventories.forEach{ nl, pi -> Log.i(nl.name, "$pi")}
+        Log.i("Common Phonemes", "${gs.commonPhonemes.keys}")
+
+        val borean = FamilyTree.loadTree(appContext) as Family
+
+        Log.i("Break", "------------------------------------------------------")
+
+        NaturalLanguage.values().forEach { Log.i(it.name, "${borean.isolateFromSiblings(it)}") }
     }
 }
