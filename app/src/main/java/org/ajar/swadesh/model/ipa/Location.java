@@ -1,6 +1,6 @@
 package org.ajar.swadesh.model.ipa;
 
-public interface Location<A extends Location<A>> {
+public interface Location {
 
-    double distanceTo(A location);
+    double distanceTo(Location location);
 }
